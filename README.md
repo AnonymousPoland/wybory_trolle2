@@ -2,8 +2,8 @@ Niejedna osoba wie, że rządy posiadają siatkę trolli po to aby wpływać na 
 
 Zainspirowany wpisami niebezpiezpiecznika   
 
-* [1](https://niebezpiecznik.pl/post/porazek-aplikacji-protego-safe-ciag-dalszy/)
-* [2](https://niebezpiecznik.pl/post/poznaj-siatke-trolli-ktora-promowala-protego-na-twitterze/)
+* [porazek-aplikacji-protego-safe-ciag-dalszy](https://niebezpiecznik.pl/post/porazek-aplikacji-protego-safe-ciag-dalszy/)
+* [poznaj-siatke-trolli-ktora-promowala-protego-na-twitterze](https://niebezpiecznik.pl/post/poznaj-siatke-trolli-ktora-promowala-protego-na-twitterze/)
 
 Postanowiłem się przyjrzeć wyborom predydenckim.
 Ten wpis przedstawia nasze znaleziska.
@@ -54,15 +54,14 @@ No dobra, to jeszcze chyba o niczym nie świadczy.
 
 Konto te często wrzuca/retwittuje wpisy z linkiem do jakiegoś nowego konta i z prośbą o follołowanie. Na przykład:  
 
-* [1](https://mobile.twitter.com/Tajemnica20/status/1275351956886892545)
-* [2](https://mobile.twitter.com/Tajemnica20/status/1277134692672770050)
+* [Pomożecie podbudować konto?? @Efik52205230](https://mobile.twitter.com/Tajemnica20/status/1275351956886892545)
+* [Przytulicie @Rysiaczek1](https://mobile.twitter.com/Tajemnica20/status/1277134692672770050)
 Zarchiwizowane:
-* [1](http://archive.is/lbPQf)
-* [2](http://archive.is/Ja26c)
+* [Pomożecie podbudować konto?? @Efik52205230](http://archive.is/lbPQf)
+* [Przytulicie @Rysiaczek1](http://archive.is/Ja26c)
 
-Tego jest więcej:
-uwaga: Mój czas jest 2 godziny do tyłu, więc dodajcie do czasu 2h aby uzyskać poprawny czas, tak będzie w każdych logach wrzuconych przez mnie.
-To nie jest pełna lista, to są logi do 2020-07-02.
+Tego jest więcej. Poniżej są logi do 2020-07-02.  
+Uwaga: Mój czas jest 2 godziny do tyłu.  
 
 ```
 $ cat tajemnica20 | grep -i przytul
@@ -95,7 +94,7 @@ $ cat tajemnica20 | grep -i przytul
 1257971977429663746 2020-05-06 09:54:26 +0000 <Tajemnica20> Bardzo przytulny😉😘
 ```
 
-Niepełna lista kont:
+Niepełna lista kont z próśb o follołowanie:  
 
 * [mariaS79815777](http://twitter.com/mariaS79815777)
 * [Marek43404261](http://twitter.com/Marek43404261)
@@ -115,7 +114,7 @@ Niepełna lista kont:
 * [Elka38547528](http://twitter.com/Elka38547528)
 * [Daniel45136206](http://twitter.com/Daniel45136206)
 
-Niektóre w chwili pisania są już zawieszone.
+Dużo z tych kont w chwili pisania są już zawieszone.
 Zarchiwizowałem wczoraj te co zawieszone nie były:
 
 ```
@@ -134,7 +133,7 @@ http://archive.vn/dMpdo
 
 Prawie wszystkie z tych kont charakteryzują się pewnym wzorem:
 
-* Brak nazwiska, dlatego twitter generuje im takie loginy: Imie + dokładnie 8 cyfr.
+* Samo imię, dlatego twitter generuje im takie loginy: Imie + dokładnie 8 cyfr.
 * Jakiś rzygowy opis typu "serce po prawej", nic konkretnego co mogłoby świadczyć że dana osoba jest prawdziwa.
 * Na awatarze nieprawdziwa osoba np. coś z filmu, albo prawdziwa twarz ale pół zasłonięta, albo jakaś  rzecz.
 * Popierają Dudę
@@ -245,15 +244,15 @@ https://twitter.com/Zbignie50179756
 Zawiera ona 94 kont.  
 Całkiem możliwe, że wiele z nich już jest zablokowane.
 
-Inne konta które wrzucają prośby o followowanie innych kont:  
+Inne konta które wrzucają/retwittują prośby o followowanie innych kont:  
 
-* [1](https://twitter.com/MySpace86)
-* [2](https://twitter.com/ACzarnobaj)
-* [3](https://twitter.com/BeataDzili)
-* [4](https://twitter.com/Natalijka_)
-* [5](https://twitter.com/exluzurpator/)
-* [6](https://twitter.com/BetiRad)
-* [7](https://twitter.com/B80Aga)
+* [MySpace86](https://twitter.com/MySpace86)
+* [ACzarnobaj](https://twitter.com/ACzarnobaj)
+* [BeataDzili](https://twitter.com/BeataDzili)
+* [Natalijka_](https://twitter.com/Natalijka_)
+* [exluzurpator](https://twitter.com/exluzurpator/)
+* [BetiRad](https://twitter.com/BetiRad)
+* [B80Aga](https://twitter.com/B80Aga)
 
 
 ## Trolle od Trzaskowskiego
