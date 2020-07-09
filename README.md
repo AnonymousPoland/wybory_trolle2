@@ -54,8 +54,8 @@ No dobra, to jeszcze chyba o niczym nie świadczy.
 
 Konto te często wrzuca/retwittuje wpisy z linkiem do jakiegoś nowego konta i z prośbą o follołowanie. Na przykład:  
 
-* [Pomożecie podbudować konto?? @Efik52205230](https://mobile.twitter.com/Tajemnica20/status/1275351956886892545)
-* [Przytulicie @Rysiaczek1](https://mobile.twitter.com/Tajemnica20/status/1277134692672770050)
+* [Pomożecie podbudować konto?? @Efik52205230](https://mobile.twitter.com/Tajemnica20/status/1275351956886892545)  
+* [Przytulicie @Rysiaczek1](https://mobile.twitter.com/Tajemnica20/status/1277134692672770050)  
 Zarchiwizowane:
 * [Pomożecie podbudować konto?? @Efik52205230](http://archive.is/lbPQf)
 * [Przytulicie @Rysiaczek1](http://archive.is/Ja26c)
@@ -133,12 +133,13 @@ http://archive.vn/dMpdo
 
 Prawie wszystkie z tych kont charakteryzują się pewnym wzorem:
 
-* Samo imię, dlatego twitter generuje im takie loginy: Imie + dokładnie 8 cyfr.
-* Jakiś rzygowy opis typu "serce po prawej", nic konkretnego co mogłoby świadczyć że dana osoba jest prawdziwa.
+* Często jest samo imię, dlatego twitter generuje im takie loginy: Imie + dokładnie 8 cyfr.
+* Jakiś rzygowy opis typu "serce po prawej", nic konkretnego.
+* Nic co mogłoby połączyć konto na twitterze z prawdziwą osobą
 * Na awatarze nieprawdziwa osoba np. coś z filmu, albo prawdziwa twarz ale pół zasłonięta, albo jakaś  rzecz.
 * Popierają Dudę
 * Albo follołują konto Tajemnica20 albo są przez te konto follołowani
-* Widzę jeszcze jedne podobieństwo między tymi kontami ale nie chcę zdradzać akurat tej rzeczy która robią źle, wolę zostawić to sobie na przyszłość.
+* Zbliżona liczba followers i following.
 
 Zrobiliśmy skrypt w pythonie który bierze following i followers konta tajemnica20, wybiera tylko te co są w postaci coś i 8 cyfr i ich opis i informacje są podobne do tamtych kont.  
 Nie działa w 100% dobrze, wśród tej listy pewnie znalazły się konta które trollami nie są, też widzieliśmy konta które trollami na bank są a do tej listy się nie załapały.
