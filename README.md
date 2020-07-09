@@ -56,12 +56,12 @@ Znaleźliśmy jeszcze 2 konta które wypowiadają się bardzo podobnie:
 
 Zarchiwizowane linki do kont:
 
-* [PolskiZbigniew](http://archive.is/wip/Ym7My)  
+* [PolskiZbigniew](http://archive.is/Ym7My)  
 * [Marcin23D](http://archive.is/CncrJ)  
 * [MarysiaAnuszki1](http://archive.is/wip/Kc4uP)  
 * [PDlapolski](http://archive.is/8Xftf)  
 * [PiotrWasilews16](http://archive.is/ZVcPH)   
-* [Matthew00PL](http://archive.is/wip/cFERU)  
+* [Matthew00PL](http://archive.is/cFERU)  
 
 ### Bot od dudy
 
@@ -290,31 +290,29 @@ Inne konta które wrzucają/retwittują prośby o followowanie innych kont:
 * [BetiRad](https://twitter.com/BetiRad)
 * [B80Aga](https://twitter.com/B80Aga)
 
-W tych przypadkach loginy są całkiem inne od tych co wrzuca tajemnica20, wyglądają bardziej normalnie.
+Konta wrzucane przez BeataDzili:
 
-Na przykład loginy wrzucane przez BeataDzili wyglądają tak:
-
-https://twitter.com/piotr_kaleta_
-https://twitter.com/Stylzyciagnoja1
-https://twitter.com/Piotr57663004
-https://twitter.com/Kasia_Dre
-https://twitter.com/Grayna21854094
-https://twitter.com/Neira40233679
-https://twitter.com/PaniRenatka11
-https://twitter.com/Cesarzowa_Sissi
-https://twitter.com/Krzyszt04642371
-https://twitter.com/MarekObuchowsk1
-https://twitter.com/AdusKaa77
-https://twitter.com/Adgam83962637
-https://twitter.com/SelkaLP1
-https://twitter.com/StaszekStach
+https://twitter.com/piotr_kaleta_  
+https://twitter.com/Stylzyciagnoja1  
+https://twitter.com/Piotr57663004  
+https://twitter.com/Kasia_Dre  
+https://twitter.com/Grayna21854094  
+https://twitter.com/Neira40233679  
+https://twitter.com/PaniRenatka11  
+https://twitter.com/Cesarzowa_Sissi  
+https://twitter.com/Krzyszt04642371  
+https://twitter.com/MarekObuchowsk1  
+https://twitter.com/AdusKaa77  
+https://twitter.com/Adgam83962637  
+https://twitter.com/SelkaLP1  
+https://twitter.com/StaszekStach  
 https://twitter.com/HolinkaPis
 
 ## Trolle od Trzaskowskiego
 
 Szukaliśmy też trolli od trzaska bo nie chcieliśmy stać po którejś ze stron.
-Być może te konta są trollami, ale nie ma tutaj tak oczywistych patternów które udowadniają że 1 osoba ma kilka kont.
-Być może potrafią się lepiej kryć, a być może to nie są trolle, tylko ludzie którzy anonimowo chcieli poprzeć swojego kandydata.
+Wydaje nam się, że te konta są trollami, ale nie ma tutaj tak oczywistych patternów które udowadniają że 1 osoba ma kilka kont.
+Być może potrafią się lepiej kryć. Nie jesteśmy 100% pewni co do każdego konta.  
 
 https://twitter.com/RobertLewus  
 https://twitter.com/Rob_PL01  
@@ -346,3 +344,57 @@ We do not forgive.
 We do not forget.  
 Expect us.  
 
+AnonymousPoland@airmail.cc  
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+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
+dZg87oPAXQW/
+=h6De
+-----END PGP PUBLIC KEY BLOCK-----
