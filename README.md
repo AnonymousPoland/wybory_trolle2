@@ -261,21 +261,21 @@ Szukaliśmy też trolli od trzaska bo nie chcieliśmy stać po którejś ze stro
 Znaleźliśmy konta które są chyba trollami, nie mamy 100% pewności co do każdego z tych kont, nie ma tutaj tak oczywistych patternów które udowadniają że 1 osoba ma kilka kont, chyba jest też ich mniej i się lepiej potrafią kryć.  
 
 ```
-https://twitter.com/piotr_kaleta_
-https://twitter.com/Stylzyciagnoja1
-https://twitter.com/Piotr57663004
-https://twitter.com/Kasia_Dre
-https://twitter.com/Grayna21854094
-https://twitter.com/Neira40233679
-https://twitter.com/PaniRenatka11
-https://twitter.com/Cesarzowa_Sissi
-https://twitter.com/Krzyszt04642371
-https://twitter.com/MarekObuchowsk1
-https://twitter.com/AdusKaa77
-https://twitter.com/Adgam83962637
-https://twitter.com/SelkaLP1
-https://twitter.com/StaszekStach
-https://twitter.com/HolinkaPis
+https://twitter.com/RobertLewus
+https://twitter.com/Rob_PL01
+https://twitter.com/robert_a_pis
+https://twitter.com/Rav88322300
+https://twitter.com/Pawe71635201
+https://twitter.com/MichSze
+https://twitter.com/Matt15864160
+https://twitter.com/MarioAwario
+https://twitter.com/MariaLe85219860
+https://twitter.com/Becia4
+https://twitter.com/BasiaMall
+https://twitter.com/Rob_PL01
+https://twitter.com/IrekKrzysztof
+https://twitter.com/gladiatorvicto
+https://twitter.com/PTacie1
 ```
 
 
