@@ -7,6 +7,7 @@ Zainspirowany wpisami niebezpiezpiecznika
 
 Postanowiłem się przyjrzeć wyborom predydenckim.
 Ten wpis przedstawia nasze znaleziska.
+Jesteście też proszeni aby nie zgłaszać tych kont do blokady, bo naszym celem jest pokazanie tego ludziom.
 
 Uwaga: było to pisane na szybko, bo jest już mało czasu.  
 
@@ -89,7 +90,7 @@ Zarchiwizowane:
 * [Pomożecie podbudować konto?? @Efik52205230](http://archive.is/lbPQf)
 * [Przytulicie @Rysiaczek1](http://archive.is/Ja26c)
 
-Tego jest więcej. Poniżej są logi do 2020-07-02.  
+Tego jest więcej. Poniżej są logi przed datę 2020-07-02.  
 Uwaga: Mój czas jest 2 godziny do tyłu.  
 
 ```
@@ -144,7 +145,7 @@ Niepełna lista kont z próśb o follołowanie:
 * [Daniel45136206](http://twitter.com/Daniel45136206)
 
 Dużo z tych kont w chwili pisania są już zawieszone.
-Zarchiwizowałem wczoraj te co zawieszone nie były:
+Zarchiwizowaliśmy wczoraj te co zawieszone nie były:
 
 ```
 http://archive.vn/6smdi
@@ -273,6 +274,12 @@ https://twitter.com/Zbignie50179756
 Zawiera ona 94 kont.  
 Całkiem możliwe, że wiele z nich już jest zablokowane.
 
+Podsumowanie: Tajemnica20 często wrzuca nowe konta z prośbą o follołowanie.
+Zasłania się tym, że konto jest nowe, lub stare zostało zawieszone. Faktycznie na twitterze widzieliśmy grupę ludzi którzy zajmowali się zgłaszaniem do twittera trollowych kont podając mowę nienawiści jako argument usunięcia konta.
+Uważamy że to jak często konta są anonimowe i to że ich loginy są podobne (twitter sam dokleja 8 cyfr, ale to jak często jest to samo imię i cyfr jest nienaturalne) świadczy o tym że za tym wszystkim stoi jedna osoba lub grupa.
+
+### Inne konta
+
 Inne konta które wrzucają/retwittują prośby o followowanie innych kont:  
 
 * [MySpace86](https://twitter.com/MySpace86)
@@ -283,30 +290,48 @@ Inne konta które wrzucają/retwittują prośby o followowanie innych kont:
 * [BetiRad](https://twitter.com/BetiRad)
 * [B80Aga](https://twitter.com/B80Aga)
 
+W tych przypadkach loginy są całkiem inne od tych co wrzuca tajemnica20, wyglądają bardziej normalnie.
+
+Na przykład loginy wrzucane przez BeataDzili wyglądają tak:
+
+https://twitter.com/piotr_kaleta_
+https://twitter.com/Stylzyciagnoja1
+https://twitter.com/Piotr57663004
+https://twitter.com/Kasia_Dre
+https://twitter.com/Grayna21854094
+https://twitter.com/Neira40233679
+https://twitter.com/PaniRenatka11
+https://twitter.com/Cesarzowa_Sissi
+https://twitter.com/Krzyszt04642371
+https://twitter.com/MarekObuchowsk1
+https://twitter.com/AdusKaa77
+https://twitter.com/Adgam83962637
+https://twitter.com/SelkaLP1
+https://twitter.com/StaszekStach
+https://twitter.com/HolinkaPis
 
 ## Trolle od Trzaskowskiego
 
-Szukaliśmy też trolli od trzaska bo nie chcieliśmy stać po którejś ze stron.  
-Znaleźliśmy konta które są chyba trollami, nie mamy 100% pewności co do każdego z tych kont, nie ma tutaj tak oczywistych patternów które udowadniają że 1 osoba ma kilka kont, chyba jest też ich mniej i się lepiej potrafią kryć.  
+Szukaliśmy też trolli od trzaska bo nie chcieliśmy stać po którejś ze stron.
+Być może te konta są trollami, ale nie ma tutaj tak oczywistych patternów które udowadniają że 1 osoba ma kilka kont.
+Być może potrafią się lepiej kryć, a być może to nie są trolle, tylko ludzie którzy anonimowo chcieli poprzeć swojego kandydata.
 
-
-https://twitter.com/RobertLewus
-https://twitter.com/Rob_PL01
-https://twitter.com/robert_a_pis
-https://twitter.com/Rav88322300
-https://twitter.com/Pawe71635201
-https://twitter.com/MichSze
-https://twitter.com/Matt15864160
-https://twitter.com/MarioAwario
-https://twitter.com/MariaLe85219860
-https://twitter.com/Becia4
-https://twitter.com/BasiaMall
-https://twitter.com/Rob_PL01
-https://twitter.com/IrekKrzysztof
-https://twitter.com/gladiatorvicto
-https://twitter.com/PTacie1
-https://twitter.com/Dorian88357211
-
+https://twitter.com/RobertLewus  
+https://twitter.com/Rob_PL01  
+https://twitter.com/robert_a_pis  
+https://twitter.com/Rav88322300  
+https://twitter.com/Pawe71635201  
+https://twitter.com/MichSze  
+https://twitter.com/Matt15864160  
+https://twitter.com/MarioAwario  
+https://twitter.com/MariaLe85219860  
+https://twitter.com/Becia4  
+https://twitter.com/BasiaMall  
+https://twitter.com/Rob_PL01  
+https://twitter.com/IrekKrzysztof  
+https://twitter.com/gladiatorvicto  
+https://twitter.com/PTacie1  
+https://twitter.com/Dorian88357211  
 
 
 ## Więcej
