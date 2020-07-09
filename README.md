@@ -1,11 +1,11 @@
 Niejedna osoba wie, że rządy posiadają siatkę trolli po to aby wpływać na decyzje i zdanie swoich obywateli.  
 
-Zainspirowany wpisami niebezpiezpiecznika   
+Zainspirowani wpisami niebezpiezpiecznika   
 
 * [porazek-aplikacji-protego-safe-ciag-dalszy](https://niebezpiecznik.pl/post/porazek-aplikacji-protego-safe-ciag-dalszy/)
 * [poznaj-siatke-trolli-ktora-promowala-protego-na-twitterze](https://niebezpiecznik.pl/post/poznaj-siatke-trolli-ktora-promowala-protego-na-twitterze/)
 
-Postanowiłem się przyjrzeć wyborom predydenckim.
+Postanowiliśmy się przyjrzeć wyborom predydenckim.
 Ten wpis przedstawia nasze znaleziska.
 Jesteście też proszeni aby nie zgłaszać tych kont do blokady, bo naszym celem jest pokazanie tego ludziom.
 
@@ -46,6 +46,8 @@ Znaleźliśmy jeszcze 2 konta które wypowiadają się bardzo podobnie:
 1278409410713395200 2020-07-01 19:25:29 +0000 <Matthew00PL> Już niedługo znowu zagłosuje na #DUDA2020
 1278328953430736897 2020-07-01 14:05:47 +0000 <Matthew00PL> Wybieram #DUDA2020
 ```
+
+Logi:  
 
 * PolskiZbigniew: https://pastebin.com/YFwkrhhb  
 * Marcin23D: https://pastebin.com/bKu01wRf  
@@ -170,10 +172,10 @@ Prawie wszystkie z tych kont charakteryzują się pewnym wzorem:
 * Popierają Dudę
 * Konta były założone niedawno  
 * Albo follołują konto Tajemnica20 albo są przez te konto follołowani
-* Zbliżona liczba followers i following.
+* Zbliżona liczba followers i following - nie ma ludzi np. z 10k followers i 600 following co wśród prawdziwych ludzi się zdarza.
 
 Zrobiliśmy skrypt w pythonie który bierze following i followers konta tajemnica20, wybiera tylko te co są w postaci coś i 8 cyfr i ich opis i informacje są podobne do tamtych kont.  
-Nie działa w 100% dobrze, wśród tej listy pewnie znalazły się konta które trollami nie są, też widzieliśmy konta które trollami na bank są a do tej listy się nie załapały.
+Skrypt nie jest 100% idealny - wśród tej listy pewnie znalazły się konta które trollami nie są, też widzieliśmy konta które trollami na bank są a do tej listy się nie załapały.
 Oto ta lista:
 
 https://twitter.com/Abigail59471803  
@@ -276,7 +278,7 @@ Całkiem możliwe, że wiele z nich już jest zablokowane.
 
 Podsumowanie: Tajemnica20 często wrzuca nowe konta z prośbą o follołowanie.
 Zasłania się tym, że konto jest nowe, lub stare zostało zawieszone. Faktycznie na twitterze widzieliśmy grupę ludzi którzy zajmowali się zgłaszaniem do twittera trollowych kont podając mowę nienawiści jako argument usunięcia konta.
-Uważamy że to jak często konta są anonimowe i to że ich loginy są podobne (twitter sam dokleja 8 cyfr, ale to jak często jest to samo imię i cyfr jest nienaturalne) świadczy o tym że za tym wszystkim stoi jedna osoba lub grupa.
+Ale i tak uważamy że to jak często konta są anonimowe i to jak podobne mają loginy (twitter sam dokleja 8 cyfr, ale to jak często jest to samo imię i cyfry jest nienaturalne) świadczy o tym że za tym wszystkim stoi jedna osoba lub grupa.
 
 ### Inne konta
 
@@ -290,7 +292,7 @@ Inne konta które wrzucają/retwittują prośby o followowanie innych kont:
 * [BetiRad](https://twitter.com/BetiRad)
 * [B80Aga](https://twitter.com/B80Aga)
 
-Konta wrzucane przez BeataDzili:
+Konto Krzyszt98612392 w chwili pisania tego postu już jest zawieszone, profile których o follołowanie prosił:
 
 https://twitter.com/piotr_kaleta_  
 https://twitter.com/Stylzyciagnoja1  
@@ -307,6 +309,12 @@ https://twitter.com/Adgam83962637
 https://twitter.com/SelkaLP1  
 https://twitter.com/StaszekStach  
 https://twitter.com/HolinkaPis
+
+Z kolei Krzyszt98612392 [został polecony](https://archive.is/CgTZ8) przez BeataDzili:
+
+```
+1215020339023024134 2020-01-08 21:19:57 +0000 <BeataDzili> Znacie? Ja tez znam‼️‼️‼️‼️‼️‼️‼️‼️ Szybko przytulamy ‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️ @Krzyszt98612392 pic.twitter.com/2P7h2VydHK
+```
 
 ## Trolle od Trzaskowskiego
 
@@ -335,6 +343,7 @@ https://twitter.com/Dorian88357211
 ## Więcej
 
 Być może jeszcze tu coś więcej dorzucimy. Pull requesty też są mile widziane, można np. szukać nowych trolli albo wrzucać linki na [archive.is](archive.is).  
+Uważamy, że tego jest dużo więcej, dałoby się zrobić listę zawierającą tysiące kont, niestety trochę zbyt późno żeśmy się za to zabrali.
 
 ## We
 
@@ -346,6 +355,7 @@ Expect us.
 
 AnonymousPoland@airmail.cc  
 
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v1
 
@@ -398,3 +408,4 @@ iIbcW3upDIvYfeWuRmmdqfRInE3npSHOoLDapGq9pbyrlHdeJHHJVGJGQHSSFrKC
 dZg87oPAXQW/
 =h6De
 -----END PGP PUBLIC KEY BLOCK-----
+```
