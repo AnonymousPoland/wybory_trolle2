@@ -30,7 +30,7 @@ Wrzucam też logi ale UWAGA mój czas systemowy jest 2 godziny do tyłu więc ch
 
 Po przejrzeniu wiadomości z tych kont stwierdziliśmy, że wypowiedzi nie są zbyt skomplikowane i są zbliżone, więc całą tą paczkę kwalififikujemy jako boty.
 
-Znaleźliśmy jeszcez 2 konta które wypowiadają się bardzo podobnie:
+Znaleźliśmy jeszcze 2 konta które wypowiadają się bardzo podobnie:
 
 * [PiotrWasilews16](https://twitter.com/PiotrWasilews16)   
 * [Matthew00PL](https://twitter.com/Matthew00PL)  
@@ -175,102 +175,100 @@ Zrobiliśmy skrypt w pythonie który bierze following i followers konta tajemnic
 Nie działa w 100% dobrze, wśród tej listy pewnie znalazły się konta które trollami nie są, też widzieliśmy konta które trollami na bank są a do tej listy się nie załapały.
 Oto ta lista:
 
-```
-https://twitter.com/Abigail59471803
-https://twitter.com/Adam23406903
-https://twitter.com/Agniesz20974671
-https://twitter.com/Alek81001736
-https://twitter.com/Aleksan47123144
-https://twitter.com/Aleksan62197823
-https://twitter.com/Alex53297745
-https://twitter.com/Anna51117582
-https://twitter.com/Abigail59471803
-https://twitter.com/Adam23406903
-https://twitter.com/Agniesz20974671
-https://twitter.com/Alek81001736
-https://twitter.com/Aleksan47123144
-https://twitter.com/Aleksan62197823
-https://twitter.com/Alex53297745
-https://twitter.com/Anna51117582
-https://twitter.com/Abigail59471803
-https://twitter.com/Adam23406903
-https://twitter.com/Agniesz20974671
-https://twitter.com/Alek81001736
-https://twitter.com/Aleksan47123144
-https://twitter.com/Aleksan62197823
-https://twitter.com/Alex53297745
-https://twitter.com/Anna51117582
-https://twitter.com/Abigail59471803
-https://twitter.com/Adam23406903
-https://twitter.com/Agniesz20974671
-https://twitter.com/Alek81001736
-https://twitter.com/Aleksan47123144
-https://twitter.com/Aleksan62197823
-https://twitter.com/Alex53297745
-https://twitter.com/Anna51117582
-https://twitter.com/Barbara24826696
-https://twitter.com/barbara33844841
-https://twitter.com/Barbara39113822
-https://twitter.com/Barbara78149499
-https://twitter.com/Basia94572614
-https://twitter.com/Beata95914766
-https://twitter.com/Boena80995411
-https://twitter.com/bogusla22426881
-https://twitter.com/Czarek62266946
-https://twitter.com/daniel12395668
-https://twitter.com/Darek80786453
-https://twitter.com/Dorota80575142
-https://twitter.com/Dorota89167878
-https://twitter.com/Eleonor34869310
-https://twitter.com/Elka68354587
-https://twitter.com/Gabor80163844
-https://twitter.com/Gregor74906556
-https://twitter.com/Iza13227260
-https://twitter.com/Jan10785387
-https://twitter.com/Jerry76133990
-https://twitter.com/Julia63066201
-https://twitter.com/Kamila46785765
-https://twitter.com/Kasia67934013
-https://twitter.com/Katarzy85642073
-https://twitter.com/Kate98048497
-https://twitter.com/Krzyszt61604317
-https://twitter.com/Krzyszt68186519
-https://twitter.com/Leon27540026
-https://twitter.com/leszek52535255
-https://twitter.com/Maciej09047195
-https://twitter.com/Marcin29242545
-https://twitter.com/Marcin39834730
-https://twitter.com/Marek43404261
-https://twitter.com/MAREK67723661
-https://twitter.com/Margare93256235
-https://twitter.com/Maria27644270
-https://twitter.com/mariaS79815777
-https://twitter.com/mario83100395
-https://twitter.com/Micha86778503
-https://twitter.com/Micha92741918
-https://twitter.com/Natka40284914
-https://twitter.com/Natka79357543
-https://twitter.com/olga01116314
-https://twitter.com/Peter97234487
-https://twitter.com/Piotr57663004
-https://twitter.com/Piotr61664559
-https://twitter.com/Piotr68495928
-https://twitter.com/Przemo00500192
-https://twitter.com/Robert88869352
-https://twitter.com/Robert92358666
-https://twitter.com/Sawek54213452
-https://twitter.com/Sebasti26156417
-https://twitter.com/Sebasti88944221
-https://twitter.com/Skorpio98996557
-https://twitter.com/Stachu38097436
-https://twitter.com/Szymon42249871
-https://twitter.com/Tom19097560
-https://twitter.com/Tomas26014043
-https://twitter.com/Tomek13231052
-https://twitter.com/Wojtek61056903
-https://twitter.com/wojtek76022112
+https://twitter.com/Abigail59471803  
+https://twitter.com/Adam23406903  
+https://twitter.com/Agniesz20974671  
+https://twitter.com/Alek81001736  
+https://twitter.com/Aleksan47123144  
+https://twitter.com/Aleksan62197823  
+https://twitter.com/Alex53297745  
+https://twitter.com/Anna51117582  
+https://twitter.com/Abigail59471803  
+https://twitter.com/Adam23406903  
+https://twitter.com/Agniesz20974671  
+https://twitter.com/Alek81001736  
+https://twitter.com/Aleksan47123144  
+https://twitter.com/Aleksan62197823  
+https://twitter.com/Alex53297745  
+https://twitter.com/Anna51117582  
+https://twitter.com/Abigail59471803  
+https://twitter.com/Adam23406903  
+https://twitter.com/Agniesz20974671  
+https://twitter.com/Alek81001736  
+https://twitter.com/Aleksan47123144  
+https://twitter.com/Aleksan62197823  
+https://twitter.com/Alex53297745  
+https://twitter.com/Anna51117582  
+https://twitter.com/Abigail59471803  
+https://twitter.com/Adam23406903  
+https://twitter.com/Agniesz20974671  
+https://twitter.com/Alek81001736  
+https://twitter.com/Aleksan47123144  
+https://twitter.com/Aleksan62197823  
+https://twitter.com/Alex53297745  
+https://twitter.com/Anna51117582  
+https://twitter.com/Barbara24826696  
+https://twitter.com/barbara33844841  
+https://twitter.com/Barbara39113822  
+https://twitter.com/Barbara78149499  
+https://twitter.com/Basia94572614  
+https://twitter.com/Beata95914766  
+https://twitter.com/Boena80995411  
+https://twitter.com/bogusla22426881  
+https://twitter.com/Czarek62266946  
+https://twitter.com/daniel12395668  
+https://twitter.com/Darek80786453  
+https://twitter.com/Dorota80575142  
+https://twitter.com/Dorota89167878  
+https://twitter.com/Eleonor34869310  
+https://twitter.com/Elka68354587  
+https://twitter.com/Gabor80163844  
+https://twitter.com/Gregor74906556  
+https://twitter.com/Iza13227260  
+https://twitter.com/Jan10785387  
+https://twitter.com/Jerry76133990  
+https://twitter.com/Julia63066201  
+https://twitter.com/Kamila46785765  
+https://twitter.com/Kasia67934013  
+https://twitter.com/Katarzy85642073  
+https://twitter.com/Kate98048497  
+https://twitter.com/Krzyszt61604317  
+https://twitter.com/Krzyszt68186519  
+https://twitter.com/Leon27540026  
+https://twitter.com/leszek52535255  
+https://twitter.com/Maciej09047195  
+https://twitter.com/Marcin29242545  
+https://twitter.com/Marcin39834730  
+https://twitter.com/Marek43404261  
+https://twitter.com/MAREK67723661  
+https://twitter.com/Margare93256235  
+https://twitter.com/Maria27644270  
+https://twitter.com/mariaS79815777  
+https://twitter.com/mario83100395  
+https://twitter.com/Micha86778503  
+https://twitter.com/Micha92741918  
+https://twitter.com/Natka40284914  
+https://twitter.com/Natka79357543  
+https://twitter.com/olga01116314  
+https://twitter.com/Peter97234487  
+https://twitter.com/Piotr57663004  
+https://twitter.com/Piotr61664559  
+https://twitter.com/Piotr68495928  
+https://twitter.com/Przemo00500192  
+https://twitter.com/Robert88869352  
+https://twitter.com/Robert92358666  
+https://twitter.com/Sawek54213452  
+https://twitter.com/Sebasti26156417  
+https://twitter.com/Sebasti88944221  
+https://twitter.com/Skorpio98996557  
+https://twitter.com/Stachu38097436  
+https://twitter.com/Szymon42249871  
+https://twitter.com/Tom19097560  
+https://twitter.com/Tomas26014043  
+https://twitter.com/Tomek13231052  
+https://twitter.com/Wojtek61056903  
+https://twitter.com/wojtek76022112  
 https://twitter.com/Zbignie50179756
-```
 
 Zawiera ona 94 kont.  
 Całkiem możliwe, że wiele z nich już jest zablokowane.
@@ -291,7 +289,7 @@ Inne konta które wrzucają/retwittują prośby o followowanie innych kont:
 Szukaliśmy też trolli od trzaska bo nie chcieliśmy stać po którejś ze stron.  
 Znaleźliśmy konta które są chyba trollami, nie mamy 100% pewności co do każdego z tych kont, nie ma tutaj tak oczywistych patternów które udowadniają że 1 osoba ma kilka kont, chyba jest też ich mniej i się lepiej potrafią kryć.  
 
-```
+
 https://twitter.com/RobertLewus
 https://twitter.com/Rob_PL01
 https://twitter.com/robert_a_pis
@@ -307,7 +305,8 @@ https://twitter.com/Rob_PL01
 https://twitter.com/IrekKrzysztof
 https://twitter.com/gladiatorvicto
 https://twitter.com/PTacie1
-```
+https://twitter.com/Dorian88357211
+
 
 
 ## Więcej
