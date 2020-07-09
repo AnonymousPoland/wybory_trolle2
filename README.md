@@ -1,0 +1,1 @@
+# wybory_trolle2
