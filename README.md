@@ -28,10 +28,39 @@ Okazało się, że są 2 pary kont, które twittują coś o dokładnie tym samym
 
 Wrzucam też logi ale UWAGA mój czas systemowy jest 2 godziny do tyłu więc chyba do wszystkich twittów trzeba dodać 2 godziny aby uzyskać poprawną godzinę.
 
-* PolskiZbigniew: https://pastebin.com/YFwkrhhb
-* Marcin23D: https://pastebin.com/bKu01wRf
-* MarysiaAnuszki1: https://pastebin.com/ZZdcwftd
-* PDlapolski: https://pastebin.com/2B25gus7
+Po przejrzeniu wiadomości z tych kont stwierdziliśmy, że wypowiedzi nie są zbyt skomplikowane i są zbliżone, więc całą tą paczkę kwalififikujemy jako boty.
+
+Znaleźliśmy jeszcez 2 konta które wypowiadają się bardzo podobnie:
+
+* [PiotrWasilews16](https://twitter.com/PiotrWasilews16)   
+* [Matthew00PL](https://twitter.com/Matthew00PL)  
+
+```
+1278726618517774337 2020-07-02 16:25:58 +0000 <Matthew00PL> Im mniej podatków tym lepiej! #DUDA2020
+1278715373894983682 2020-07-02 15:41:17 +0000 <Matthew00PL> Popieram! #DUDA2020
+1278669841336066048 2020-07-02 12:40:21 +0000 <Matthew00PL> Brawo! #DUDA2020
+1278669617901318144 2020-07-02 12:39:28 +0000 <Matthew00PL> Brawo PMM! #DUDA2020
+1278610635446722560 2020-07-02 08:45:05 +0000 <Matthew00PL> Już nie długo głosujemy znowu #DUDA2020 !
+1278610382714744833 2020-07-02 08:44:05 +0000 <Matthew00PL> Zwyciężymy! #DUDA2020
+1278409410713395200 2020-07-01 19:25:29 +0000 <Matthew00PL> Już niedługo znowu zagłosuje na #DUDA2020
+1278328953430736897 2020-07-01 14:05:47 +0000 <Matthew00PL> Wybieram #DUDA2020
+```
+
+* PolskiZbigniew: https://pastebin.com/YFwkrhhb  
+* Marcin23D: https://pastebin.com/bKu01wRf  
+* MarysiaAnuszki1: https://pastebin.com/ZZdcwftd  
+* PDlapolski: https://pastebin.com/2B25gus7  
+* PiotrWasilews16: https://pastebin.com/f8qyHcCf  
+* Matthew00PL: https://pastebin.com/2yHDuNDr  
+
+Zarchiwizowane linki do kont:
+
+* [PolskiZbigniew](http://archive.is/wip/Ym7My)  
+* [Marcin23D](http://archive.is/CncrJ)  
+* [MarysiaAnuszki1](http://archive.is/wip/Kc4uP)  
+* [PDlapolski](http://archive.is/8Xftf)  
+* [PiotrWasilews16](http://archive.is/ZVcPH)   
+* [Matthew00PL](http://archive.is/wip/cFERU)  
 
 ### Bot od dudy
 
@@ -138,6 +167,7 @@ Prawie wszystkie z tych kont charakteryzują się pewnym wzorem:
 * Nic co mogłoby połączyć konto na twitterze z prawdziwą osobą
 * Na awatarze nieprawdziwa osoba np. coś z filmu, albo prawdziwa twarz ale pół zasłonięta, albo jakaś  rzecz.
 * Popierają Dudę
+* Konta były założone niedawno  
 * Albo follołują konto Tajemnica20 albo są przez te konto follołowani
 * Zbliżona liczba followers i following.
 
