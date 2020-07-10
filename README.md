@@ -57,6 +57,8 @@ Logi:
 * PiotrWasilews16: https://pastebin.com/f8qyHcCf  
 * Matthew00PL: https://pastebin.com/2yHDuNDr  
 
+Logi zostały uzyskane za pomocą [twint](https://github.com/twintproject/twint).
+
 Zarchiwizowane linki do kont:
 
 * [PolskiZbigniew](http://archive.is/Ym7My)  
