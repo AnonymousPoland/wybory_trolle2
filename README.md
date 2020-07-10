@@ -360,6 +360,8 @@ AnonymousPoland@airmail.cc
 
 irc.anonops.com #poland  
 
+[twitter](https://twitter.com/AnonymousPolan4)  
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v1
