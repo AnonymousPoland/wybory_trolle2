@@ -28,14 +28,19 @@ Okazuje się, że są 2 pary kont, które twittują coś o dokładnie tym samym 
 * [MarysiaAnuszki1](https://twitter.com/MarysiaAnuszki1) == [PDlapolski](https://twitter.com/PDlapolski)  
 
 
-Wrzucam też logi ale UWAGA mój czas systemowy jest 2 godziny do tyłu więc chyba do wszystkich twittów trzeba dodać 2 godziny aby uzyskać poprawną godzinę.
+Niżej wrzucam też logi ale UWAGA mój czas systemowy jest 2 godziny do tyłu więc chyba do wszystkich twittów trzeba dodać 2 godziny aby uzyskać poprawną godzinę.
 
 Po przejrzeniu wiadomości z tych kont stwierdziliśmy, że wypowiedzi nie są zbyt skomplikowane i są zbliżone, więc całą tą paczkę kwalififikujemy jako boty.
 
-Znaleźliśmy jeszcze 2 konta które wypowiadają się bardzo podobnie do kont powyżej więc je też uznajemy jako boty:
+Znaleźliśmy jeszcze parę kont które wypowiadają się bardzo podobnie do kont powyżej więc je też uznajemy jako boty:
 
 * [PiotrWasilews16](https://twitter.com/PiotrWasilews16)   
 * [Matthew00PL](https://twitter.com/Matthew00PL)  
+* [g_izbicki](https://twitter.com/g_izbicki)  
+
+konkretne przykłady:
+
+`Matthew00PL` podobne do `PolskiZbigniew`:
 
 ```
 1278726618517774337 2020-07-02 16:25:58 +0000 <Matthew00PL> Im mniej podatków tym lepiej! #DUDA2020
@@ -46,6 +51,11 @@ Znaleźliśmy jeszcze 2 konta które wypowiadają się bardzo podobnie do kont p
 1278610382714744833 2020-07-02 08:44:05 +0000 <Matthew00PL> Zwyciężymy! #DUDA2020
 1278409410713395200 2020-07-01 19:25:29 +0000 <Matthew00PL> Już niedługo znowu zagłosuje na #DUDA2020
 1278328953430736897 2020-07-01 14:05:47 +0000 <Matthew00PL> Wybieram #DUDA2020
+```
+
+```
+PolskiZbigniew:1279304659350536192 2020-07-04 06:42:53 +0000 <PolskiZbigniew> Brawo!! #DUDA2020
+PolskiZbigniew:1279034000502337536 2020-07-03 12:47:23 +0000 <PolskiZbigniew> Brawo! #DUDA2020
 ```
 
 Logi:  
@@ -63,10 +73,11 @@ Zarchiwizowane linki do kont:
 
 * [PolskiZbigniew](http://archive.is/Ym7My)  
 * [Marcin23D](http://archive.is/CncrJ)  
-* [MarysiaAnuszki1](http://archive.is/wip/Kc4uP)  
+* [MarysiaAnuszki1](http://archive.is/Kc4uP)  
 * [PDlapolski](http://archive.is/8Xftf)  
 * [PiotrWasilews16](http://archive.is/ZVcPH)   
 * [Matthew00PL](http://archive.is/cFERU)  
+
 
 ### Bot od dudy
 
@@ -152,17 +163,17 @@ Dużo z tych kont w chwili pisania są już zawieszone.
 Zarchiwizowaliśmy wczoraj te co zawieszone nie były:
 
 ```
-http://archive.vn/6smdi
-http://archive.vn/urztf
-http://archive.vn/JMLzi
-http://archive.vn/Cbpp5
-http://archive.vn/Irnuf
-http://archive.vn/AP1k2
-http://archive.vn/W5O2i
-http://archive.vn/nLOsl
-http://archive.vn/2i75L
-http://archive.vn/mqqni
-http://archive.vn/dMpdo
+http://archive.vn/6smdi  
+http://archive.vn/urztf  
+http://archive.vn/JMLzi  
+http://archive.vn/Cbpp5  
+http://archive.vn/Irnuf  
+http://archive.vn/AP1k2  
+http://archive.vn/W5O2i  
+http://archive.vn/nLOsl  
+http://archive.vn/2i75L  
+http://archive.vn/mqqni  
+http://archive.vn/dMpdo  
 ```
 
 Prawie wszystkie z tych kont charakteryzują się pewnym wzorem:
