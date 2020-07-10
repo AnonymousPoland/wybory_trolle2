@@ -75,7 +75,7 @@ Zarchiwizowane linki do kont:
 
 ### thispersondoesnotexist.com
 
-Wydaje nam się, że awatar do konta [B80Aga](https://twitter.com/B80Aga) został wzięty z thispersondoesnotexist.com
+Wydaje nam się, że awatar do konta [B80Aga](https://twitter.com/B80Aga) został wzięty z https://thispersondoesnotexist.com - strona która generuje twarz używjąc sztucznej inteligencji.
 Chociaż nie mamy tutaj 100% pewności, fajnie by było jakby ktoś mógł potwierdzić.
 
 ### Tajemnica20
