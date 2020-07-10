@@ -42,14 +42,14 @@ konkretne przykłady:
 
 `Matthew00PL` podobne do `PolskiZbigniew`:
 
-[link](https://twitter.com/Matthew00PL/status/1278726618517774337) `1278726618517774337 2020-07-02 16:25:58 +0000 <Matthew00PL> Im mniej podatków tym lepiej! #DUDA2020`  
-[link](https://twitter.com/Matthew00PL/status/1278715373894983682) `1278715373894983682 2020-07-02 15:41:17 +0000 <Matthew00PL> Popieram! #DUDA2020`  
-[link](https://twitter.com/Matthew00PL/status/1278669841336066048) `1278669841336066048 2020-07-02 12:40:21 +0000 <Matthew00PL> Brawo! #DUDA2020`  
-[link](https://twitter.com/Matthew00PL/status/1278669617901318144) `1278669617901318144 2020-07-02 12:39:28 +0000 <Matthew00PL> Brawo PMM! #DUDA2020`  
-[link](https://twitter.com/Matthew00PL/status/1278610635446722560) `1278610635446722560 2020-07-02 08:45:05 +0000 <Matthew00PL> Już nie długo głosujemy znowu #DUDA2020 !`  
-[link](https://twitter.com/Matthew00PL/status/1278610382714744833) `1278610382714744833 2020-07-02 08:44:05 +0000 <Matthew00PL> Zwyciężymy! #DUDA2020`  
-[link](https://twitter.com/Matthew00PL/status/1278409410713395200) `1278409410713395200 2020-07-01 19:25:29 +0000 <Matthew00PL> Już niedługo znowu zagłosuje na #DUDA2020`  
-[link](https://twitter.com/Matthew00PL/status/1278328953430736897) `1278328953430736897 2020-07-01 14:05:47 +0000 <Matthew00PL> Wybieram #DUDA2020`
+[link](https://twitter.com/Matthew00PL/status/1278726618517774337) `2020-07-02 16:25:58 +0000 <Matthew00PL> Im mniej podatków tym lepiej! #DUDA2020`  
+[link](https://twitter.com/Matthew00PL/status/1278715373894983682) `2020-07-02 15:41:17 +0000 <Matthew00PL> Popieram! #DUDA2020`  
+[link](https://twitter.com/Matthew00PL/status/1278669841336066048) `2020-07-02 12:40:21 +0000 <Matthew00PL> Brawo! #DUDA2020`  
+[link](https://twitter.com/Matthew00PL/status/1278669617901318144) `2020-07-02 12:39:28 +0000 <Matthew00PL> Brawo PMM! #DUDA2020`  
+[link](https://twitter.com/Matthew00PL/status/1278610635446722560) `2020-07-02 08:45:05 +0000 <Matthew00PL> Już nie długo głosujemy znowu #DUDA2020 !`  
+[link](https://twitter.com/Matthew00PL/status/1278610382714744833) `2020-07-02 08:44:05 +0000 <Matthew00PL> Zwyciężymy! #DUDA2020`  
+[link](https://twitter.com/Matthew00PL/status/1278409410713395200) `2020-07-01 19:25:29 +0000 <Matthew00PL> Już niedługo znowu zagłosuje na #DUDA2020`  
+[link](https://twitter.com/Matthew00PL/status/1278328953430736897) `2020-07-01 14:05:47 +0000 <Matthew00PL> Wybieram #DUDA2020`
 
 [1279304659350536192 2020-07-04 06:42:53 +0000 <PolskiZbigniew> Brawo!! #DUDA2020](https://twitter.com/PolskiZbigniew/status/1279304659350536192)  
 [1279034000502337536 2020-07-03 12:47:23 +0000 <PolskiZbigniew> Brawo! #DUDA2020](https://twitter.com/PolskiZbigniew/status/1279034000502337536)  
