@@ -101,14 +101,13 @@ Zarchiwizowane linki do kont:
 * [Matthew00PL](http://archive.is/cFERU)  
 
 
-
 ### Bot od dudy
 
-[StefanS74701906](https://archive.is/yF5Z4) tutaj to chyba nie ma wątpliwości, że to bot, ciągle wrzuca takie same twitty.   
+[StefanS74701906](https://twitter.com/StefanS74701906) ([archive.is](https://archive.is/yF5Z4)) tutaj to chyba nie ma wątpliwości, że to bot, ciągle wrzuca takie same twitty.   
 
 ### thispersondoesnotexist.com
 
-Wydaje nam się, że awatar do konta [B80Aga](https://twitter.com/B80Aga) został wzięty z https://thispersondoesnotexist.com - strona która generuje twarz używjąc sztucznej inteligencji.
+Wydaje nam się, że awatar do konta [B80Aga](http://archive.is/xsCsC) został wzięty z https://thispersondoesnotexist.com - strona która generuje twarz używjąc sztucznej inteligencji.
 Chociaż nie mamy tutaj 100% pewności, fajnie by było jakby ktoś mógł potwierdzić.
 
 ### Tajemnica20
