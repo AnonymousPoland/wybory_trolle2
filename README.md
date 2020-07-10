@@ -127,7 +127,7 @@ Zarchiwizowane:
 * [Pomożecie podbudować konto?? @Efik52205230](http://archive.is/lbPQf)
 * [Przytulicie @Rysiaczek1](http://archive.is/Ja26c)
 
-Tego jest więcej. Poniżej są logi przed datę 2020-07-02.  
+Tego jest więcej. Poniżej są logi przed datą 2020-07-02.  
 Uwaga: Mój czas jest 2 godziny do tyłu.  
 
 ```
@@ -184,7 +184,6 @@ Niepełna lista kont z próśb o follołowanie:
 Dużo z tych kont w chwili pisania są już zawieszone.
 Zarchiwizowaliśmy wczoraj te co zawieszone nie były:
 
-```
 http://archive.vn/6smdi  
 http://archive.vn/urztf  
 http://archive.vn/JMLzi  
@@ -196,7 +195,6 @@ http://archive.vn/nLOsl
 http://archive.vn/2i75L  
 http://archive.vn/mqqni  
 http://archive.vn/dMpdo  
-```
 
 Prawie wszystkie z tych kont charakteryzują się pewnym wzorem:
 
