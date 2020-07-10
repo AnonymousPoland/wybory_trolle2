@@ -358,6 +358,8 @@ Expect us.
 
 AnonymousPoland@airmail.cc  
 
+irc.anonops.com #poland  
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v1
