@@ -22,16 +22,17 @@ Uwaga: było to pisane na szybko, bo jest już mało czasu.
 
 Ściągnęliśmy wszystkie konta following i followers z konta [PolskiZbigniew](https://twitter.com/PolskiZbigniew)  
 
-Okazało się, że są 2 pary kont, które twittują coś o dokładnie tym samym czasie:  
+Okazuje się, że są 2 pary kont, które twittują coś o dokładnie tym samym czasie:  
 
 * [PolskiZbigniew](https://twitter.com/PolskiZbigniew)  == [Marcin23D](https://twitter.com/Marcin23D)  
 * [MarysiaAnuszki1](https://twitter.com/MarysiaAnuszki1) == [PDlapolski](https://twitter.com/PDlapolski)  
+
 
 Wrzucam też logi ale UWAGA mój czas systemowy jest 2 godziny do tyłu więc chyba do wszystkich twittów trzeba dodać 2 godziny aby uzyskać poprawną godzinę.
 
 Po przejrzeniu wiadomości z tych kont stwierdziliśmy, że wypowiedzi nie są zbyt skomplikowane i są zbliżone, więc całą tą paczkę kwalififikujemy jako boty.
 
-Znaleźliśmy jeszcze 2 konta które wypowiadają się bardzo podobnie:
+Znaleźliśmy jeszcze 2 konta które wypowiadają się bardzo podobnie do kont powyżej więc je też uznajemy jako boty:
 
 * [PiotrWasilews16](https://twitter.com/PiotrWasilews16)   
 * [Matthew00PL](https://twitter.com/Matthew00PL)  
@@ -292,7 +293,7 @@ Inne konta które wrzucają/retwittują prośby o followowanie innych kont:
 * [BetiRad](https://twitter.com/BetiRad)
 * [B80Aga](https://twitter.com/B80Aga)
 
-Konto Krzyszt98612392 w chwili pisania tego postu już jest zawieszone, profile których o follołowanie prosił:
+Konto Krzyszt98612392 w chwili gdy to piszę już jest zawieszone, profile które listował z prośbą o follolowanie:  
 
 https://twitter.com/piotr_kaleta_  
 https://twitter.com/Stylzyciagnoja1  
@@ -316,11 +317,13 @@ Z kolei Krzyszt98612392 [został polecony](https://archive.is/CgTZ8) przez Beata
 1215020339023024134 2020-01-08 21:19:57 +0000 <BeataDzili> Znacie? Ja tez znam‼️‼️‼️‼️‼️‼️‼️‼️ Szybko przytulamy ‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️ @Krzyszt98612392 pic.twitter.com/2P7h2VydHK
 ```
 
+Nie wiem jak można znać kogoś tylko na podstawie imienia i awatara który jest wzięty z filmu Kingdom Of Heaven :D
+
 ## Trolle od Trzaskowskiego
 
 Szukaliśmy też trolli od trzaska bo nie chcieliśmy stać po którejś ze stron.
 Wydaje nam się, że te konta są trollami, ale nie ma tutaj tak oczywistych patternów które udowadniają że 1 osoba ma kilka kont.
-Być może potrafią się lepiej kryć. Nie jesteśmy 100% pewni co do każdego konta.  
+Być może potrafią się lepiej kryć, ale na pewno jest ich dużo mniej. Nie jesteśmy 100% pewni co do każdego konta.  
 
 https://twitter.com/RobertLewus  
 https://twitter.com/Rob_PL01  
@@ -342,8 +345,8 @@ https://twitter.com/Dorian88357211
 
 ## Więcej
 
-Być może jeszcze tu coś więcej dorzucimy. Pull requesty też są mile widziane, można np. szukać nowych trolli albo wrzucać linki na [archive.is](archive.is).  
-Uważamy, że tego jest dużo więcej, dałoby się zrobić listę zawierającą tysiące kont, niestety trochę zbyt późno żeśmy się za to zabrali.
+Być może jeszcze tu coś więcej dorzucimy. Pull requesty też są mile widziane. Można np. szukać nowych trolli albo wrzucać linki na [archive.is](archive.is).  
+Uważamy, że tego jest dużo więcej, dałoby się zrobić listę zawierającą tysiące kont, niestety trochę zbyt późno się za to zabraliśmy :(
 
 ## We
 
