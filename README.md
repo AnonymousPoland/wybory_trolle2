@@ -51,27 +51,27 @@ konkretne przykłady:
 [link](https://twitter.com/Matthew00PL/status/1278409410713395200) `2020-07-01 19:25:29 +0000 <Matthew00PL> Już niedługo znowu zagłosuje na #DUDA2020`  
 [link](https://twitter.com/Matthew00PL/status/1278328953430736897) `2020-07-01 14:05:47 +0000 <Matthew00PL> Wybieram #DUDA2020`
 
-[1279304659350536192 2020-07-04 06:42:53 +0000 <PolskiZbigniew> Brawo!! #DUDA2020](https://twitter.com/PolskiZbigniew/status/1279304659350536192)  
-[1279034000502337536 2020-07-03 12:47:23 +0000 <PolskiZbigniew> Brawo! #DUDA2020](https://twitter.com/PolskiZbigniew/status/1279034000502337536)  
+[link](https://twitter.com/PolskiZbigniew/status/1279304659350536192) `2020-07-04 06:42:53 +0000 <PolskiZbigniew> Brawo!! #DUDA2020`  
+[link](https://twitter.com/PolskiZbigniew/status/1279034000502337536) `2020-07-03 12:47:23 +0000 <PolskiZbigniew> Brawo! #DUDA2020` 
 
 `PiotrWasilews16` podobne do `MarysiaAnuszki1`:  
 
-[1276627478396784640 2020-06-26 21:24:44 +0000 <PiotrWasilews16> Jest moc! #DUDA2020](https://twitter.com/PiotrWasilews16/status/1276627478396784640)  
-[1276596457097826304 2020-06-26 19:21:28 +0000 <PiotrWasilews16> Jest moc! #DUDA2020](https://twitter.com/PiotrWasilews16/status/1276596457097826304)  
-[1276546111705092097 2020-06-26 16:01:24 +0000 <PiotrWasilews16> Jest moc! #DUDA2020](https://twitter.com/PiotrWasilews16/status/1276546111705092097)  
-[1275871004988805121 2020-06-24 19:18:46 +0000 <PiotrWasilews16> Jest moc! #DUDA2020](https://twitter.com/PiotrWasilews16/status/1275871004988805121)  
-[1273861393108938752 2020-06-19 06:13:17 +0000 <PiotrWasilews16> Tak jest; jedziemy dalej #DUDA2020 #PrezydentMlodych](https://twitter.com/PiotrWasilews16/status/1273861393108938752)  
-[1273861263307747328 2020-06-19 06:12:47 +0000 <PiotrWasilews16> Tak jest, jedziemy dalej! #DUDA2020 https://twitter.com/lewicki_mateusz/status/1273860232368795649 …](https://twitter.com/PiotrWasilews16/status/1273861263307747328)  
-[1272495427271655426 2020-06-15 11:45:26 +0000 <PiotrWasilews16> Jest pełna mobilizacja! Jedziemy dalej #DUDA2020](https://twitter.com/PiotrWasilews16/status/1272495427271655426)  
-[1272492560917946369 2020-06-15 11:34:02 +0000 <PiotrWasilews16> Pełna zgoda, jedziemy dalej #DUDA2020 #LaczyNasPolska](https://twitter.com/PiotrWasilews16/status/1272492560917946369)  
-[1272430278066294784 2020-06-15 07:26:33 +0000 <PiotrWasilews16> Jedziemy dalej! #DUDA2020](https://twitter.com/PiotrWasilews16/status/1272430278066294784)  
-[1272166071995437058 2020-06-14 13:56:41 +0000 <PiotrWasilews16> Jest moc, jedziemy dalej! #DUDA2020 #ŁączyNasPolska](https://twitter.com/PiotrWasilews16/status/1272166071995437058)  
+[link](https://twitter.com/PiotrWasilews16/status/1276627478396784640) `2020-06-26 21:24:44 +0000 <PiotrWasilews16> Jest moc! #DUDA2020`  
+[link](https://twitter.com/PiotrWasilews16/status/1276596457097826304) `2020-06-26 19:21:28 +0000 <PiotrWasilews16> Jest moc! #DUDA2020`  
+[link](https://twitter.com/PiotrWasilews16/status/1276546111705092097) `2020-06-26 16:01:24 +0000 <PiotrWasilews16> Jest moc! #DUDA2020`  
+[link](https://twitter.com/PiotrWasilews16/status/1275871004988805121) `2020-06-24 19:18:46 +0000 <PiotrWasilews16> Jest moc! #DUDA2020`  
+[link](https://twitter.com/PiotrWasilews16/status/1273861393108938752) `2020-06-19 06:13:17 +0000 <PiotrWasilews16> Tak jest; jedziemy dalej #DUDA2020 #PrezydentMlodych`  
+[link](https://twitter.com/PiotrWasilews16/status/1273861263307747328) `2020-06-19 06:12:47 +0000 <PiotrWasilews16> Tak jest, jedziemy dalej! #DUDA2020 https://twitter.com/lewicki_mateusz/status/1273860232368795649 …`  
+[link](https://twitter.com/PiotrWasilews16/status/1272495427271655426) `2020-06-15 11:45:26 +0000 <PiotrWasilews16> Jest pełna mobilizacja! Jedziemy dalej #DUDA2020`  
+[link](https://twitter.com/PiotrWasilews16/status/1272492560917946369) `2020-06-15 11:34:02 +0000 <PiotrWasilews16> Pełna zgoda, jedziemy dalej #DUDA2020 #LaczyNasPolska`  
+[link](https://twitter.com/PiotrWasilews16/status/1272430278066294784) `2020-06-15 07:26:33 +0000 <PiotrWasilews16> Jedziemy dalej! #DUDA2020`  
+[link](https://twitter.com/PiotrWasilews16/status/1272166071995437058) `2020-06-14 13:56:41 +0000 <PiotrWasilews16> Jest moc, jedziemy dalej! #DUDA2020 #ŁączyNasPolska`  
 
 
-[1276428710804062213 2020-06-26 08:14:54 +0000 <MarysiaAnuszki1> Jest moc! #DUDA2020](https://twitter.com/MarysiaAnuszki1/status/1276428710804062213)  
-[1274699484317069313 2020-06-21 13:43:34 +0000 <MarysiaAnuszki1> Tak trzymać! Jedziemy dalej #DUDA2020](https://twitter.com/MarysiaAnuszki1/status/1274699484317069313)  
-[1274375460487680000 2020-06-20 16:16:01 +0000 <MarysiaAnuszki1> Super! Jedziemy dalej #DUDA2020](https://twitter.com/MarysiaAnuszki1/status/1274375460487680000)  
 
+[link](https://twitter.com/MarysiaAnuszki1/status/1276428710804062213) `2020-06-26 08:14:54 +0000 <MarysiaAnuszki1> Jest moc! #DUDA2020`  
+[link](https://twitter.com/MarysiaAnuszki1/status/1274699484317069313) `2020-06-21 13:43:34 +0000 <MarysiaAnuszki1> Tak trzymać! Jedziemy dalej #DUDA2020`  
+[link](https://twitter.com/MarysiaAnuszki1/status/1274375460487680000) `2020-06-20 16:16:01 +0000 <MarysiaAnuszki1> Super! Jedziemy dalej #DUDA2020`
 
 Logi:  
 
