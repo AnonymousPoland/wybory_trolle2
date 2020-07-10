@@ -58,6 +58,28 @@ PolskiZbigniew:1279304659350536192 2020-07-04 06:42:53 +0000 <PolskiZbigniew> Br
 PolskiZbigniew:1279034000502337536 2020-07-03 12:47:23 +0000 <PolskiZbigniew> Brawo! #DUDA2020
 ```
 
+`PiotrWasilews16` podobne do `MarysiaAnuszki1`:  
+
+```
+1276627478396784640 2020-06-26 21:24:44 +0000 <PiotrWasilews16> Jest moc! #DUDA2020
+1276596457097826304 2020-06-26 19:21:28 +0000 <PiotrWasilews16> Jest moc! #DUDA2020
+1276546111705092097 2020-06-26 16:01:24 +0000 <PiotrWasilews16> Jest moc! #DUDA2020
+1275871004988805121 2020-06-24 19:18:46 +0000 <PiotrWasilews16> Jest moc! #DUDA2020
+1273861393108938752 2020-06-19 06:13:17 +0000 <PiotrWasilews16> Tak jest; jedziemy dalej #DUDA2020 #PrezydentMlodych
+1273861263307747328 2020-06-19 06:12:47 +0000 <PiotrWasilews16> Tak jest, jedziemy dalej! #DUDA2020 https://twitter.com/lewicki_mateusz/status/1273860232368795649 …
+1272495427271655426 2020-06-15 11:45:26 +0000 <PiotrWasilews16> Jest pełna mobilizacja! Jedziemy dalej #DUDA2020
+1272492560917946369 2020-06-15 11:34:02 +0000 <PiotrWasilews16> Pełna zgoda, jedziemy dalej #DUDA2020 #LaczyNasPolska
+1272430278066294784 2020-06-15 07:26:33 +0000 <PiotrWasilews16> Jedziemy dalej! #DUDA2020
+1272166071995437058 2020-06-14 13:56:41 +0000 <PiotrWasilews16> Jest moc, jedziemy dalej! #DUDA2020 #ŁączyNasPolska
+```
+
+```
+1276428710804062213 2020-06-26 08:14:54 +0000 <MarysiaAnuszki1> Jest moc! #DUDA2020
+1274699484317069313 2020-06-21 13:43:34 +0000 <MarysiaAnuszki1> Tak trzymać! Jedziemy dalej #DUDA2020
+1274375460487680000 2020-06-20 16:16:01 +0000 <MarysiaAnuszki1> Super! Jedziemy dalej #DUDA2020
+```
+
+
 Logi:  
 
 * PolskiZbigniew: https://pastebin.com/YFwkrhhb  
@@ -79,10 +101,10 @@ Zarchiwizowane linki do kont:
 * [Matthew00PL](http://archive.is/cFERU)  
 
 
+
 ### Bot od dudy
 
-[StefanS74701906](https://twitter.com/StefanS74701906) tutaj to chyba nie ma wątpliwości, że to bot, ciągle wrzuca takie same twitty.  
-[archive.is](https://archive.is/yF5Z4) - zarchiwizowana strona - będzie pamiętać nawet jak te konto zostanie usuniętę.  
+[StefanS74701906](https://archive.is/yF5Z4) tutaj to chyba nie ma wątpliwości, że to bot, ciągle wrzuca takie same twitty.   
 
 ### thispersondoesnotexist.com
 
