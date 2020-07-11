@@ -100,7 +100,6 @@ Zarchiwizowane linki do kont:
 ### thispersondoesnotexist.com
 
 Wydaje nam się, że awatar do konta [B80Aga](http://archive.is/xsCsC) został wzięty z https://thispersondoesnotexist.com - strona która generuje twarz używjąc sztucznej inteligencji.
-Chociaż nie mamy tutaj 100% pewności, fajnie by było jakby ktoś mógł potwierdzić.
 
 ### Tajemnica20
 
@@ -154,33 +153,33 @@ $ cat tajemnica20 | grep -i przytul
 
 linki do tych twittów:  
 
-[1278648432253710336](https://twitter.com/Tajemnica20/status/1278648432253710336)
-[1277134692672770050](https://twitter.com/Tajemnica20/status/1277134692672770050)
-[1277128137239920640](https://twitter.com/Tajemnica20/status/1277128137239920640)
-[1273591148012068865](https://twitter.com/Tajemnica20/status/1273591148012068865)
-[1273506378448015360](https://twitter.com/Tajemnica20/status/1273506378448015360)
-[1273501997279457282](https://twitter.com/Tajemnica20/status/1273501997279457282)
-[1273146228197523456](https://twitter.com/Tajemnica20/status/1273146228197523456)
-[1272491519941935106](https://twitter.com/Tajemnica20/status/1272491519941935106)
-[1272096187156496386](https://twitter.com/Tajemnica20/status/1272096187156496386)
-[1271568468261945344](https://twitter.com/Tajemnica20/status/1271568468261945344)
-[1271116397003837440](https://twitter.com/Tajemnica20/status/1271116397003837440)
-[1270980028310921216](https://twitter.com/Tajemnica20/status/1270980028310921216)
-[1270036317188096001](https://twitter.com/Tajemnica20/status/1270036317188096001)
-[1269304101562712065](https://twitter.com/Tajemnica20/status/1269304101562712065)
-[1269021212333801476](https://twitter.com/Tajemnica20/status/1269021212333801476)
-[1269012015529562112](https://twitter.com/Tajemnica20/status/1269012015529562112)
-[1267160090492186629](https://twitter.com/Tajemnica20/status/1267160090492186629)
-[1265956720024698882](https://twitter.com/Tajemnica20/status/1265956720024698882)
-[1265587434101846016](https://twitter.com/Tajemnica20/status/1265587434101846016)
-[1262673935939833857](https://twitter.com/Tajemnica20/status/1262673935939833857)
-[1261723599339126790](https://twitter.com/Tajemnica20/status/1261723599339126790)
-[1261357928390340608](https://twitter.com/Tajemnica20/status/1261357928390340608)
-[1261356168481398785](https://twitter.com/Tajemnica20/status/1261356168481398785)
-[1261211151704170502](https://twitter.com/Tajemnica20/status/1261211151704170502)
-[1261210748690317313](https://twitter.com/Tajemnica20/status/1261210748690317313)
-[1259199474573991936](https://twitter.com/Tajemnica20/status/1259199474573991936)
-[1257971977429663746](https://twitter.com/Tajemnica20/status/1257971977429663746)
+[1278648432253710336](http://archive.is/WfJxS)
+[1277134692672770050](http://archive.is/EXHd4)
+[1277128137239920640](http://archive.is/UUlsP)
+[1273591148012068865](http://archive.is/X2kuU)
+[1273506378448015360](http://archive.is/Y4ZvB)
+[1273501997279457282](http://archive.is/OlEkj)
+[1273146228197523456](http://archive.is/DCi81)
+[1272491519941935106](http://archive.is/Swim5)
+[1272096187156496386](http://archive.is/6nCAs)
+[1271568468261945344](http://archive.is/lhBOw)
+[1271116397003837440](http://archive.is/YMgrf)
+[1270980028310921216](http://archive.is/psfRi)
+[1270036317188096001](http://archive.is/Djz4F)
+[1269304101562712065](http://archive.is/RaUh2)
+[1269021212333801476](http://archive.is/67ywN)
+[1269012015529562112](http://archive.is/afxyS)
+[1267160090492186629](http://archive.is/MHxaU)
+[1265956720024698882](http://archive.is/QSbdG)
+[1265587434101846016](http://archive.is/hyaDJ)
+[1262673935939833857](http://archive.is/7Rus8)
+[1261723599339126790](http://archive.is/zz8TS)
+[1261357928390340608](http://archive.is/c4NwB)
+[1261356168481398785](http://archive.is/d7sxi)
+[1261211151704170502](http://archive.is/s1rLm)
+[1261210748690317313](http://archive.is/6v6n5)
+[1259199474573991936](http://archive.is/8Bqpt)
+[1257971977429663746](http://archive.is/aGKqR)
 
 
 Niektóre z tych kont mają kradziony awatar. Np. [te konto](http://archive.is/hfLnp) z [tej strony](https://theskincareedit.com/touch-up-roots-at-home).  
@@ -380,7 +379,7 @@ Nie wiem jak można znać kogoś tylko na podstawie imienia i awatara który jes
 
 Szukaliśmy też trolli od trzaska bo nie chcieliśmy stać po którejś ze stron.
 Wydaje nam się, że te konta są trollami, ale nie ma tutaj tak oczywistych patternów które udowadniają że 1 osoba ma kilka kont.
-Być może potrafią się lepiej kryć, ale na pewno jest ich dużo mniej. Nie jesteśmy 100% tych kont, ale stwierdziliśmy, że to będzie dziwnie wyglądało jak tylko na PiS coś wrzucimy.   
+Być może potrafią się lepiej kryć, ale na pewno PiS trolli ma dużo więcej. Nie jesteśmy 100% pewni każdego konta.     
 
 https://twitter.com/RobertLewus  
 https://twitter.com/Rob_PL01  
