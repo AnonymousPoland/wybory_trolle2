@@ -152,7 +152,7 @@ $ cat tajemnica20 | grep -i przytul
 1257971977429663746 2020-05-06 09:54:26 +0000 <Tajemnica20> Bardzo przytulny😉😘
 ```
 
-linki do tych twittów (uwaga, niektóre konta są chyba prawdziwe):  
+linki do tych twittów:  
 
 [1278648432253710336](https://twitter.com/Tajemnica20/status/1278648432253710336)
 [1277134692672770050](https://twitter.com/Tajemnica20/status/1277134692672770050)
@@ -181,6 +181,10 @@ linki do tych twittów (uwaga, niektóre konta są chyba prawdziwe):
 [1261210748690317313](https://twitter.com/Tajemnica20/status/1261210748690317313)
 [1259199474573991936](https://twitter.com/Tajemnica20/status/1259199474573991936)
 [1257971977429663746](https://twitter.com/Tajemnica20/status/1257971977429663746)
+
+
+Niektóre z tych kont mają kradziony awatar. Np. [te konto](http://archive.is/hfLnp) z [tej strony](https://theskincareedit.com/touch-up-roots-at-home).  
+Całkiem możliwe, że wśród tej listy są też jacyś prawdziwi ludzie, jednak wolimy przypadkowo wrzucić za dużo niż za mało.  
 
 Niepełna lista kont z próśb o follołowanie:  
 
@@ -222,7 +226,7 @@ Prawie wszystkie z tych kont charakteryzują się pewnym wzorem:
 * Często jest samo imię, dlatego twitter generuje im takie loginy: Imie + dokładnie 8 cyfr.
 * Jakiś rzygowy opis typu "serce po prawej", nic konkretnego.
 * Nic co mogłoby połączyć konto na twitterze z prawdziwą osobą
-* Na awatarze nieprawdziwa osoba np. coś z filmu, albo prawdziwa twarz ale pół zasłonięta, albo jakaś  rzecz.
+* Na awatarze nieprawdziwa osoba np. coś z filmu, albo prawdziwa twarz ale pół zasłonięta, albo jakaś  rzecz. Update: Wydaje nam się, że zobaczyli ten artyuł i przerzucili się na kradzione z internetu awatary prawdziwych osób.  
 * Popierają Dudę
 * Konta były założone niedawno  
 * Albo follołują konto Tajemnica20 albo są przez te konto follołowani
@@ -376,7 +380,7 @@ Nie wiem jak można znać kogoś tylko na podstawie imienia i awatara który jes
 
 Szukaliśmy też trolli od trzaska bo nie chcieliśmy stać po którejś ze stron.
 Wydaje nam się, że te konta są trollami, ale nie ma tutaj tak oczywistych patternów które udowadniają że 1 osoba ma kilka kont.
-Być może potrafią się lepiej kryć, ale na pewno jest ich dużo mniej. Nie jesteśmy 100% pewni co do każdego konta.  
+Być może potrafią się lepiej kryć, ale na pewno jest ich dużo mniej. Nie jesteśmy 100% tych kont, ale stwierdziliśmy, że to będzie dziwnie wyglądało jak tylko na PiS coś wrzucimy.   
 
 https://twitter.com/RobertLewus  
 https://twitter.com/Rob_PL01  
