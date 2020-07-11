@@ -42,36 +42,35 @@ konkretne przykłady:
 
 `Matthew00PL` podobne do `PolskiZbigniew`:
 
-[link](https://twitter.com/Matthew00PL/status/1278726618517774337) `2020-07-02 16:25:58 +0000 <Matthew00PL> Im mniej podatków tym lepiej! #DUDA2020`  
-[link](https://twitter.com/Matthew00PL/status/1278715373894983682) `2020-07-02 15:41:17 +0000 <Matthew00PL> Popieram! #DUDA2020`  
-[link](https://twitter.com/Matthew00PL/status/1278669841336066048) `2020-07-02 12:40:21 +0000 <Matthew00PL> Brawo! #DUDA2020`  
-[link](https://twitter.com/Matthew00PL/status/1278669617901318144) `2020-07-02 12:39:28 +0000 <Matthew00PL> Brawo PMM! #DUDA2020`  
-[link](https://twitter.com/Matthew00PL/status/1278610635446722560) `2020-07-02 08:45:05 +0000 <Matthew00PL> Już nie długo głosujemy znowu #DUDA2020 !`  
-[link](https://twitter.com/Matthew00PL/status/1278610382714744833) `2020-07-02 08:44:05 +0000 <Matthew00PL> Zwyciężymy! #DUDA2020`  
-[link](https://twitter.com/Matthew00PL/status/1278409410713395200) `2020-07-01 19:25:29 +0000 <Matthew00PL> Już niedługo znowu zagłosuje na #DUDA2020`  
-[link](https://twitter.com/Matthew00PL/status/1278328953430736897) `2020-07-01 14:05:47 +0000 <Matthew00PL> Wybieram #DUDA2020`
+[link](http://archive.is/wip/O8fGc) `2020-07-02 16:25:58 +0000 <Matthew00PL> Im mniej podatków tym lepiej! #DUDA2020`  
+[link](http://archive.is/wip/TiTIY) `2020-07-02 15:41:17 +0000 <Matthew00PL> Popieram! #DUDA2020`  
+[link](http://archive.is/wip/k1x9I) `2020-07-02 12:40:21 +0000 <Matthew00PL> Brawo! #DUDA2020`  
+[link](http://archive.is/wip/bkRY7) `2020-07-02 12:39:28 +0000 <Matthew00PL> Brawo PMM! #DUDA2020`  
+[link](http://archive.is/wip/0BwNP) `2020-07-02 08:45:05 +0000 <Matthew00PL> Już nie długo głosujemy znowu #DUDA2020 !`  
+[link](http://archive.is/wip/2GQPd) `2020-07-02 08:44:05 +0000 <Matthew00PL> Zwyciężymy! #DUDA2020`  
+[link](http://archive.is/wip/GbvrW) `2020-07-01 19:25:29 +0000 <Matthew00PL> Już niedługo znowu zagłosuje na #DUDA2020`  
+[link](http://archive.is/wip/U5uF0) `2020-07-01 14:05:47 +0000 <Matthew00PL> Wybieram #DUDA2020`
 
-[link](https://twitter.com/PolskiZbigniew/status/1279304659350536192) `2020-07-04 06:42:53 +0000 <PolskiZbigniew> Brawo!! #DUDA2020`  
-[link](https://twitter.com/PolskiZbigniew/status/1279034000502337536) `2020-07-03 12:47:23 +0000 <PolskiZbigniew> Brawo! #DUDA2020` 
+[link](http://archive.is/wip/Kl9uI) `2020-07-04 06:42:53 +0000 <PolskiZbigniew> Brawo!! #DUDA2020`  
+[link](http://archive.is/wip/b4NVs) `2020-07-03 12:47:23 +0000 <PolskiZbigniew> Brawo! #DUDA2020` 
 
 `PiotrWasilews16` podobne do `MarysiaAnuszki1`:  
 
-[link](https://twitter.com/PiotrWasilews16/status/1276627478396784640) `2020-06-26 21:24:44 +0000 <PiotrWasilews16> Jest moc! #DUDA2020`  
-[link](https://twitter.com/PiotrWasilews16/status/1276596457097826304) `2020-06-26 19:21:28 +0000 <PiotrWasilews16> Jest moc! #DUDA2020`  
-[link](https://twitter.com/PiotrWasilews16/status/1276546111705092097) `2020-06-26 16:01:24 +0000 <PiotrWasilews16> Jest moc! #DUDA2020`  
-[link](https://twitter.com/PiotrWasilews16/status/1275871004988805121) `2020-06-24 19:18:46 +0000 <PiotrWasilews16> Jest moc! #DUDA2020`  
-[link](https://twitter.com/PiotrWasilews16/status/1273861393108938752) `2020-06-19 06:13:17 +0000 <PiotrWasilews16> Tak jest; jedziemy dalej #DUDA2020 #PrezydentMlodych`  
-[link](https://twitter.com/PiotrWasilews16/status/1273861263307747328) `2020-06-19 06:12:47 +0000 <PiotrWasilews16> Tak jest, jedziemy dalej! #DUDA2020 https://twitter.com/lewicki_mateusz/status/1273860232368795649 …`  
-[link](https://twitter.com/PiotrWasilews16/status/1272495427271655426) `2020-06-15 11:45:26 +0000 <PiotrWasilews16> Jest pełna mobilizacja! Jedziemy dalej #DUDA2020`  
-[link](https://twitter.com/PiotrWasilews16/status/1272492560917946369) `2020-06-15 11:34:02 +0000 <PiotrWasilews16> Pełna zgoda, jedziemy dalej #DUDA2020 #LaczyNasPolska`  
-[link](https://twitter.com/PiotrWasilews16/status/1272430278066294784) `2020-06-15 07:26:33 +0000 <PiotrWasilews16> Jedziemy dalej! #DUDA2020`  
-[link](https://twitter.com/PiotrWasilews16/status/1272166071995437058) `2020-06-14 13:56:41 +0000 <PiotrWasilews16> Jest moc, jedziemy dalej! #DUDA2020 #ŁączyNasPolska`  
+[link](http://archive.is/wip/4trMf) `2020-06-26 21:24:44 +0000 <PiotrWasilews16> Jest moc! #DUDA2020`  
+[link](http://archive.is/wip/6yLND) `2020-06-26 19:21:28 +0000 <PiotrWasilews16> Jest moc! #DUDA2020`  
+[link](http://archive.is/wip/zj5e4) `2020-06-26 16:01:24 +0000 <PiotrWasilews16> Jest moc! #DUDA2020`  
+[link](http://archive.is/wip/pDo4t) `2020-06-24 19:18:46 +0000 <PiotrWasilews16> Jest moc! #DUDA2020`  
+[link](http://archive.is/wip/sLn6y) `2020-06-19 06:13:17 +0000 <PiotrWasilews16> Tak jest; jedziemy dalej #DUDA2020 #PrezydentMlodych`  
+[link](http://archive.is/wip/IH2lj) `2020-06-19 06:12:47 +0000 <PiotrWasilews16> Tak jest, jedziemy dalej! #DUDA2020 https://twitter.com/lewicki_mateusz/status/1273860232368795649 …`  
+[link](http://archive.is/wip/KNmmH) `2020-06-15 11:45:26 +0000 <PiotrWasilews16> Jest pełna mobilizacja! Jedziemy dalej #DUDA2020`  
+[link](http://archive.is/wip/MSGn5) `2020-06-15 11:34:02 +0000 <PiotrWasilews16> Pełna zgoda, jedziemy dalej #DUDA2020 #LaczyNasPolska`  
+[link](http://archive.is/wip/1MFB9) `2020-06-15 07:26:33 +0000 <PiotrWasilews16> Jedziemy dalej! #DUDA2020`  
+[link](http://archive.is/wip/ssE2c) `2020-06-14 13:56:41 +0000 <PiotrWasilews16> Jest moc, jedziemy dalej! #DUDA2020 #ŁączyNasPolska`  
 
 
-
-[link](https://twitter.com/MarysiaAnuszki1/status/1276428710804062213) `2020-06-26 08:14:54 +0000 <MarysiaAnuszki1> Jest moc! #DUDA2020`  
-[link](https://twitter.com/MarysiaAnuszki1/status/1274699484317069313) `2020-06-21 13:43:34 +0000 <MarysiaAnuszki1> Tak trzymać! Jedziemy dalej #DUDA2020`  
-[link](https://twitter.com/MarysiaAnuszki1/status/1274375460487680000) `2020-06-20 16:16:01 +0000 <MarysiaAnuszki1> Super! Jedziemy dalej #DUDA2020`
+[link](http://archive.is/wip/6ZYFC) `2020-06-26 08:14:54 +0000 <MarysiaAnuszki1> Jest moc! #DUDA2020`  
+[link](http://archive.is/wip/xFX5F) `2020-06-21 13:43:34 +0000 <MarysiaAnuszki1> Tak trzymać! Jedziemy dalej #DUDA2020`  
+[link](http://archive.is/wip/YlXvI) `2020-06-20 16:16:01 +0000 <MarysiaAnuszki1> Super! Jedziemy dalej #DUDA2020`
 
 Logi:  
 
@@ -152,6 +151,36 @@ $ cat tajemnica20 | grep -i przytul
 1259199474573991936 2020-05-09 19:12:04 +0000 <Tajemnica20> Przytulamy!!! I to już 👊😂 https://twitter.com/B4Szymon/status/1259137798411620353 …
 1257971977429663746 2020-05-06 09:54:26 +0000 <Tajemnica20> Bardzo przytulny😉😘
 ```
+
+linki:  
+
+[1278648432253710336](https://twitter.com/Tajemnica20/status/1278648432253710336)
+[1277134692672770050](https://twitter.com/Tajemnica20/status/1277134692672770050)
+[1277128137239920640](https://twitter.com/Tajemnica20/status/1277128137239920640)
+[1273591148012068865](https://twitter.com/Tajemnica20/status/1273591148012068865)
+[1273506378448015360](https://twitter.com/Tajemnica20/status/1273506378448015360)
+[1273501997279457282](https://twitter.com/Tajemnica20/status/1273501997279457282)
+[1273146228197523456](https://twitter.com/Tajemnica20/status/1273146228197523456)
+[1272491519941935106](https://twitter.com/Tajemnica20/status/1272491519941935106)
+[1272096187156496386](https://twitter.com/Tajemnica20/status/1272096187156496386)
+[1271568468261945344](https://twitter.com/Tajemnica20/status/1271568468261945344)
+[1271116397003837440](https://twitter.com/Tajemnica20/status/1271116397003837440)
+[1270980028310921216](https://twitter.com/Tajemnica20/status/1270980028310921216)
+[1270036317188096001](https://twitter.com/Tajemnica20/status/1270036317188096001)
+[1269304101562712065](https://twitter.com/Tajemnica20/status/1269304101562712065)
+[1269021212333801476](https://twitter.com/Tajemnica20/status/1269021212333801476)
+[1269012015529562112](https://twitter.com/Tajemnica20/status/1269012015529562112)
+[1267160090492186629](https://twitter.com/Tajemnica20/status/1267160090492186629)
+[1265956720024698882](https://twitter.com/Tajemnica20/status/1265956720024698882)
+[1265587434101846016](https://twitter.com/Tajemnica20/status/1265587434101846016)
+[1262673935939833857](https://twitter.com/Tajemnica20/status/1262673935939833857)
+[1261723599339126790](https://twitter.com/Tajemnica20/status/1261723599339126790)
+[1261357928390340608](https://twitter.com/Tajemnica20/status/1261357928390340608)
+[1261356168481398785](https://twitter.com/Tajemnica20/status/1261356168481398785)
+[1261211151704170502](https://twitter.com/Tajemnica20/status/1261211151704170502)
+[1261210748690317313](https://twitter.com/Tajemnica20/status/1261210748690317313)
+[1259199474573991936](https://twitter.com/Tajemnica20/status/1259199474573991936)
+[1257971977429663746](https://twitter.com/Tajemnica20/status/1257971977429663746)
 
 Niepełna lista kont z próśb o follołowanie:  
 
