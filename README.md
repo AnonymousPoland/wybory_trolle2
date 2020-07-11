@@ -152,7 +152,7 @@ $ cat tajemnica20 | grep -i przytul
 1257971977429663746 2020-05-06 09:54:26 +0000 <Tajemnica20> Bardzo przytulny😉😘
 ```
 
-linki:  
+linki do tych twittów (uwaga, niektóre konta są chyba prawdziwe):  
 
 [1278648432253710336](https://twitter.com/Tajemnica20/status/1278648432253710336)
 [1277134692672770050](https://twitter.com/Tajemnica20/status/1277134692672770050)
