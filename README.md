@@ -38,7 +38,7 @@ Znaleźliśmy jeszcze parę kont które wypowiadają się bardzo podobnie do kon
 
 * [PiotrWasilews16](https://twitter.com/PiotrWasilews16)   
 * [Matthew00PL](https://twitter.com/Matthew00PL)  
-* [g_izbicki](https://twitter.com/g_izbicki)  
+* [g_izbicki](https://twitter.com/g_izbicki)  - tylko przez pewien czas te konto wypowiadało się podobnie do pozostałych botów  
 
 konkretne przykłady:
 
@@ -82,6 +82,7 @@ Logi:
 * PDlapolski: https://pastebin.com/2B25gus7  
 * PiotrWasilews16: https://pastebin.com/f8qyHcCf  
 * Matthew00PL: https://pastebin.com/2yHDuNDr  
+* g_izbicki: https://pastebin.com/E2G8hHb2 
 
 Logi zostały uzyskane za pomocą [twint](https://github.com/twintproject/twint).
 
@@ -93,7 +94,7 @@ Zarchiwizowane linki do kont:
 * [PDlapolski](http://archive.is/8Xftf)  
 * [PiotrWasilews16](http://archive.is/ZVcPH)   
 * [Matthew00PL](http://archive.is/cFERU)  
-
+* [g_izbicki](http://archive.is/zpsGn)  
 
 ### Bot od dudy
 
