@@ -201,9 +201,9 @@ Lista kont z próśb o follołowanie (te co było 1 konto w jednej prośbie):
 * [1968Krzys](http://twitter.com/1968Krzys)
 * [zorientowana14](http://twitter.com/zorientowana14)
 * [leszek52535255](http://twitter.com/leszek52535255)
-* [Natka79357543](http://twitter.com/Natka79357543)
-* [Elka38547528](http://twitter.com/Elka38547528)
-* [Daniel45136206](http://twitter.com/Daniel45136206)
+* [Natka79357543](http://twitter.com/Natka79357543)  
+* [Elka38547528](http://twitter.com/Elka38547528)  
+* [Daniel45136206](http://twitter.com/Daniel45136206)  
 Starsze twitty: (tu już mniej loginów typu imie + cyfry)  
 * [lucyna50675486](https://twitter.com/lucyna50675486)
 * [Robert92358666](https://twitter.com/Robert92358666)
@@ -234,11 +234,11 @@ http://archive.vn/nLOsl
 http://archive.vn/2i75L  
 http://archive.vn/mqqni  
 http://archive.vn/dMpdo  
-http://archive.is/3bK4k
-http://archive.is/UgqLj
-http://archive.is/D03sc
-http://archive.is/V9J2S
-http://archive.is/vCeqs
+http://archive.is/3bK4k  
+http://archive.is/UgqLj  
+http://archive.is/D03sc  
+http://archive.is/V9J2S  
+http://archive.is/vCeqs  
 
 Prawie wszystkie z tych kont charakteryzują się pewnym wzorem:
 
