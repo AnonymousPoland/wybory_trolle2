@@ -185,7 +185,7 @@ linki do tych twittów:
 Niektóre z tych kont mają kradziony awatar. Np. [te konto](http://archive.is/hfLnp) z [tej strony](https://theskincareedit.com/touch-up-roots-at-home).  
 Całkiem możliwe, że wśród tej listy są też jacyś prawdziwi ludzie, jednak wolimy przypadkowo wrzucić za dużo niż za mało.  
 
-Niepełna lista kont z próśb o follołowanie:  
+Lista kont z próśb o follołowanie (te co było 1 konto w jednej prośbie):  
 
 * [mariaS79815777](http://twitter.com/mariaS79815777)
 * [Marek43404261](http://twitter.com/Marek43404261)
@@ -204,9 +204,24 @@ Niepełna lista kont z próśb o follołowanie:
 * [Natka79357543](http://twitter.com/Natka79357543)
 * [Elka38547528](http://twitter.com/Elka38547528)
 * [Daniel45136206](http://twitter.com/Daniel45136206)
+Starsze twitty: (tu już mniej loginów typu imie + cyfry)  
+* [lucyna50675486](https://twitter.com/lucyna50675486)
+* [Robert92358666](https://twitter.com/Robert92358666)
+* [Sawek54213452](https://twitter.com/Sawek54213452)
+* [jurek48717092](https://twitter.com/jurek48717092)
+* [B4Szymon](https://twitter.com/B4Szymon)
+* [jerzy_krystjura](https://twitter.com/jerzy_krystjura)
+* [CezaryRutkowsk1](https://twitter.com/CezaryRutkowsk1)
+* [Irek69370828](https://twitter.com/Irek69370828)
+* [Martyna_2020](https://twitter.com/Martyna_2020)
+* [dawid9777](https://twitter.com/dawid9777)
+* [CezaryRutkowsk1](twitter.com/CezaryRutkowsk1)
+
+2 ostatnie konta to chyba prawdziwi ludzie.  
+
 
 Dużo z tych kont w chwili pisania są już zawieszone.
-Zarchiwizowaliśmy wczoraj te co zawieszone nie były:
+Zarchiwizowaliśmy te co zawieszone nie były:
 
 http://archive.vn/6smdi  
 http://archive.vn/urztf  
@@ -219,6 +234,11 @@ http://archive.vn/nLOsl
 http://archive.vn/2i75L  
 http://archive.vn/mqqni  
 http://archive.vn/dMpdo  
+http://archive.is/3bK4k
+http://archive.is/UgqLj
+http://archive.is/D03sc
+http://archive.is/V9J2S
+http://archive.is/vCeqs
 
 Prawie wszystkie z tych kont charakteryzują się pewnym wzorem:
 
