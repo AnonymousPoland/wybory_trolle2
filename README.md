@@ -20,6 +20,8 @@ Uwaga: było to pisane na szybko, bo jest już mało czasu.
 
 ### Konta piszące dokładnie o tej samej porze
 
+(Część tych kont pokrywa się z tymi opisanymi na niebezpiecznik.pl)  
+
 Ściągnęliśmy wszystkie konta following i followers z konta [PolskiZbigniew](https://twitter.com/PolskiZbigniew)  
 
 Okazuje się, że są 2 pary kont, które twittują coś o dokładnie tym samym czasie:  
@@ -203,8 +205,12 @@ Lista kont z próśb o follołowanie (te co było 1 konto w jednej prośbie):
 * [leszek52535255](http://twitter.com/leszek52535255)
 * [Natka79357543](http://twitter.com/Natka79357543)  
 * [Elka38547528](http://twitter.com/Elka38547528)  
-* [Daniel45136206](http://twitter.com/Daniel45136206)  
+* [Daniel45136206](http://twitter.com/Daniel45136206) 
+ 
+
 Starsze twitty: (tu już mniej loginów typu imie + cyfry)  
+
+
 * [lucyna50675486](https://twitter.com/lucyna50675486)
 * [Robert92358666](https://twitter.com/Robert92358666)
 * [Sawek54213452](https://twitter.com/Sawek54213452)
