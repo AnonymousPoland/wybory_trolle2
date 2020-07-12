@@ -38,7 +38,7 @@ Znaleźliśmy jeszcze parę kont które wypowiadają się bardzo podobnie do kon
 
 * [PiotrWasilews16](https://twitter.com/PiotrWasilews16)   
 * [Matthew00PL](https://twitter.com/Matthew00PL)  
-* [g_izbicki](https://twitter.com/g_izbicki)  - tylko przez pewien czas te konto wypowiadało się podobnie do pozostałych botów  
+* [g_izbicki](https://twitter.com/g_izbicki)  - te konto wypowiadało się podobnie do pozostałych botów od 2020-06-08 do 2020-06-10 12:30:23.  
 
 konkretne przykłady:
 
