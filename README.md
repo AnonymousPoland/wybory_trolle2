@@ -184,7 +184,7 @@ linki do tych twittów:
 [1257971977429663746](http://archive.is/aGKqR)
 
 
-Niektóre z tych kont mają kradziony awatar. Np. [te konto](http://archive.is/hfLnp) z [tej strony](https://theskincareedit.com/touch-up-roots-at-home).  
+Niektóre z tych kont mają kradziony awatar. Np. [syrmont](http://archive.is/hfLnp) z [tej strony](https://theskincareedit.com/touch-up-roots-at-home).  
 Całkiem możliwe, że wśród tej listy są też jacyś prawdziwi ludzie, jednak wolimy przypadkowo wrzucić za dużo niż za mało.  
 
 Lista kont z próśb o follołowanie (te co było 1 konto w jednej prośbie):  
@@ -217,6 +217,7 @@ Starsze twitty: (tu już mniej loginów typu imie + cyfry)
 * [jurek48717092](https://twitter.com/jurek48717092)
 * [B4Szymon](https://twitter.com/B4Szymon)
 * [jerzy_krystjura](https://twitter.com/jerzy_krystjura)
+* [syrmont](https://twitter.com/syrmont)
 * [CezaryRutkowsk1](https://twitter.com/CezaryRutkowsk1)
 * [Irek69370828](https://twitter.com/Irek69370828)
 * [Martyna_2020](https://twitter.com/Martyna_2020)
@@ -245,6 +246,7 @@ http://archive.is/UgqLj
 http://archive.is/D03sc  
 http://archive.is/V9J2S  
 http://archive.is/vCeqs  
+http://archive.is/hfLnp  
 
 Prawie wszystkie z tych kont charakteryzują się pewnym wzorem:
 
