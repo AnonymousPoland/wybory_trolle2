@@ -374,7 +374,6 @@ Inne konta które wrzucają/retwittują prośby o followowanie innych kont:
 * [ACzarnobaj](https://twitter.com/ACzarnobaj)
 * [BeataDzili](https://twitter.com/BeataDzili)
 * [Natalijka_](https://twitter.com/Natalijka_)
-* [exluzurpator](https://twitter.com/exluzurpator/)
 * [BetiRad](https://twitter.com/BetiRad)
 * [B80Aga](https://twitter.com/B80Aga)
 
@@ -403,6 +402,167 @@ Z kolei Krzyszt98612392 [został polecony](https://archive.is/CgTZ8) przez Beata
 ```
 
 Nie wiem jak można znać kogoś tylko na podstawie imienia i awatara który jest wzięty z filmu Kingdom Of Heaven :D
+
+
+Konta polecane przez BeataDzili (pewnie nie wszystkie):
+
+```
+1167445166329872386 2019-08-30 14:33:12 +0000 <BeataDzili> Robotę mamy! Pani Renatka wróciła! @_no__mercy @AgaO72 @PolskaKobieta @Jowita_W @prawy_kierunek @AgnieszkaKubia7 @KasiaBie78 @Bambi2655 @Ania15256765 @rem_tene @nosweetjulie135 @Maximus57038114 @grabdek @debroendby_if @exluzurpator @Pani_Scarlett @Krzyszt68174461
+1168202880148529152 2019-09-01 16:44:05 +0000 <BeataDzili> Dzień dobry! Robotę mamy✌🇵🇱 @PolskaKobieta @PolitWerkstatt @AgaNagrodzka @prawy_kierunek @AgnieszkaKubia7 @HGeeka @Stellmacher20 @KasiaBie78 @Immanuela_Kant @maniek175 @Maximus57038114 @malpawzielonym @Karola_wamehlo @kuburere @Kubuss1528 @ZHlebowicz @Krzyszt68174461 https://twitter.com/Tudgrre/status/1168160518227615744 …
+1168225321520435200 2019-09-01 18:13:15 +0000 <BeataDzili> Nasze konta są OK  Odbudowujemy :  @Zdzisaw83272770
+1170391569704390656 2019-09-07 17:41:09 +0000 <BeataDzili> @pm_ghost Robotę mamy !  @AgaO72 @Jowita_W @PolskaKobieta @JoannaSikorski @KasiaBie78 @MarcinKot5 @kuburere 😉 @nieugieta @SuchyArek @daniel_kobialka @Magdale60608478 @Magdalena_ona @iwonaz76 @ewe_kowalski @sylwmat471 @SylwiaSensowna @UcjaSylwia @prawy_kierunek @PiotrNo02045211 https://twitter.com/if_debroendby/status/1170363694515138560 …
+1174273692827889668 2019-09-18 10:47:19 +0000 <BeataDzili> Robota jest ! Pilne ! Zgłaszać i banować! @PolskaKobieta @prawy_kierunek @AgnieszkaKubia7 @Kazek48332004 @Stellmacher20 @ewe_kowalski @UczakKrzysztof @PiotrKsol @Elciapelciaba @kedzier53 @KasiaBie78 @Rob5Chief @Taplarski_Dziad @retusz 🇵🇱✌️ https://twitter.com/AgaO72/status/1174267954957078528 …
+1174785235491442701 2019-09-19 20:40:01 +0000 <BeataDzili> Ręce pełne roboty ... 😂  Zostawię to u Ciebie, może ruszy https://twitter.com/BeataPoProstu/status/1173906003005493249?s=20 …
+1176530166115381249 2019-09-24 16:13:45 +0000 <BeataDzili> Jeszcze rano odbudowaliśmy konto  😡😡😡 pic.twitter.com/7ljt9TQcow
+1176545662856568833 2019-09-24 17:15:19 +0000 <BeataDzili> Robota jest @pikus_pol https://twitter.com/BeataDzili/status/1176542866308550656 …
+1176606699949625349 2019-09-24 21:17:52 +0000 <BeataDzili> Wrócił! @KumpelPetera   @Taplarski_Dziad @clodin56 @Jowita_W @KasiaBie78 @nieugieta @rem_tene @Immanuela_Kant @Kazek48332004 @PolskaKobieta @debroendby_if @grabdek @exluzurpator @Maximus57038114 @AgnieszkaKubia7 @PolskaKobieta   Proszę też o odbudowę konta @2_mirek RT
+1176609192389615616 2019-09-24 21:27:46 +0000 <BeataDzili> Prośbę mam, bądźcie grzeczni, banujcie #silnikirazem innych przygłupów. Nie dajcie się prowokować. Ja już nie mam siły, wolne mam .  Zrozumiano?  Dobranoc Ćwiry i Ćwirki 💫✨💫  Odbudowujemy @2_mirek RT pic.twitter.com/argrH2EfBm
+1176609544132321281 2019-09-24 21:29:10 +0000 <BeataDzili> Proszę też o odbudowę konta  @2_mirek  RT
+1176611389928067073 2019-09-24 21:36:30 +0000 <BeataDzili> Proszę też o odbudowę konta  @2_mirek  RT
+1176614991862095872 2019-09-24 21:50:49 +0000 <BeataDzili> Ma silę rażenia 😂  Proszę też o odbudowę konta  @2_mirek  RT
+1178393282528907264 2019-09-29 19:37:06 +0000 <BeataDzili> Wiecie co? Robotę mamy ! #skasowaćPiS taki się pojawił a jest na poziomie #silnirazem @PolskaKobieta @AgaO72 @Jowita_W @prawy_kierunek @malpawzielonym @Maximus57038114 @Kazek48332004 @Kazimie92245969 @zwyklyPolak
+1186306262646034433 2019-10-21 15:40:28 +0000 <BeataDzili> Czyli @bytompogrzeby bezrobotny ?
+1186637044954607616 2019-10-22 13:34:52 +0000 <BeataDzili> Pomożecie w odbudowie? @prawy_kierunek @kicia2009 @PolskaKobieta @AgaO72 @Jowita_W @iwi_be @ada_szein @grabdek @debroendby_if @Kazek48332004 @NoDobrze https://twitter.com/MPabian2/status/1186628254901456896 …
+1191842316472012800 2019-11-05 22:18:46 +0000 <BeataDzili> Wiecie co ? To jakas żenada jest . Tłiterzu daj se luz i przestań kasować nasze konta‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️ Urlop mam...a Wy do roboty 😉 @Marek99659367  Trzeba odbudować @prawy_kierunek @malpawzielonym @AgaO72 @Agapo59641184 @Jowita_W @Kazek48332004 @ada_szein @kuburere
+1200886494635995136 2019-11-30 21:17:06 +0000 <BeataDzili> Spokojnej lub nie... Kolorowej lub kosmatej ...  Dobranoc Ćwiry i Ćwirki 💫✨💫  Idę przytulić się do Konstytucji , przeczytać i zrozumieć... Ostatni przed snem 🚬🚬 pic.twitter.com/xyYa777ew5
+1206151533961891840 2019-12-15 09:58:29 +0000 <BeataDzili> Cześć Ćwiry i Ćwirki 👍 Robota jest! Trzeba odbudować @JacekArtystawy1 i @winikspe1 ‼️‼️‼️‼️‼️‼️ @AgaO72 @ada_szein @PolskaKobieta @Jowita_W @Jowita39250092 @JoannaSikorski @DarioLukos @skorpion5691 @debroendby_if @antoszu @grabdek @WojciechDudczak @ZHlebowicz @Zbignie26140934
+1215020339023024134 2020-01-08 21:19:57 +0000 <BeataDzili> Znacie? Ja tez znam‼️‼️‼️‼️‼️‼️‼️‼️ Szybko przytulamy ‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️ @Krzyszt98612392 pic.twitter.com/2P7h2VydHK
+1218855975731499008 2020-01-19 11:21:24 +0000 <BeataDzili> Znacie ❓ Ja znam ‼️ Przytulamy ‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️ @HolinkaPis pic.twitter.com/SsW1LyByWF
+1222252301303369729 2020-01-28 20:17:11 +0000 <BeataDzili> Nim pójdę stąd Kochane Ćwiry i Ćwirki ‼️ Przytulamy Naszą Anię . Bambi wróciła ✌️💪❤️ https://twitter.com/Anna60751872/status/1222177813811408897 …
+1222981055558356992 2020-01-30 20:33:00 +0000 <BeataDzili> Ale dziś się dzieje ‼️🍸‼️🍸‼️🍸‼️🍸‼️🍸‼️🍸‼️  Ćwiry i Ćwirki przytulamy 🤗 @SStelmaszynski
+1222986829462474753 2020-01-30 20:55:56 +0000 <BeataDzili> Do roboty...przytulamy, nie lenić się ‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️  Ale dziś się dzieje ‼️🍸‼️🍸‼️🍸‼️🍸‼️🍸‼️🍸‼️  Ćwiry i Ćwirki przytulamy 🤗 @SStelmaszynski
+1228629257661841408 2020-02-15 10:36:56 +0000 <BeataDzili> A co to się wyprawia‼️‼️‼️‼️‼️ @PolskaKobieta widziałaś? Przytulamy naszego Robercika   @Robertn19851❤️❤️❤️ pic.twitter.com/MqU1AUbBKh
+1228632973907578880 2020-02-15 10:51:42 +0000 <BeataDzili> Prośba jest ... odbudujmy konta :   @AdusKaa77 @Dobry1Zwierz ❤️❤️❤️ Dobrego dnia Ćwiry i Ćwirki ☕️  PS. Ja odpoczywam...nie martwcie się 💋 pic.twitter.com/4iuXxGB8m6
+1228701710132109313 2020-02-15 15:24:50 +0000 <BeataDzili> Kochani ‼️‼️‼️‼️ Robota jest...przytulamy @AndrzejDuda2020  Musi nas być dużo więcej‼️ pic.twitter.com/Y4wIJtf3eX
+1229107079723483137 2020-02-16 18:15:38 +0000 <BeataDzili> Wciąż Nas mało , przytulamy 🤗❤️🇵🇱🇵🇱🇵🇱🇵🇱 pic.twitter.com/yJo8tetmVj
+1234572966467379200 2020-03-02 20:15:07 +0000 <BeataDzili> Bardzo proszę😊❤️  Przytulamy Iwonkę‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️ @IwonaMikusek pic.twitter.com/5Bh7aeMYyO
+1234795333122756608 2020-03-03 10:58:43 +0000 <BeataDzili> Witajcie Ćwiry i Ćwirki 🌟 Dziękuję Wam za komentarze pod moim nocnym tłitem.❤  Dziś do przytulenia mamy Naszego Robercika 👍 Dobrego dnia🌷😘❤ pic.twitter.com/DqODYZyuPZ
+1235324905891270661 2020-03-04 22:03:03 +0000 <BeataDzili> I juz po spaniu... Pomoc potrzebna ‼️‼️‼️‼️ Przytulamy przed snem.🤗🤗🤗❤️ @BeaBea83731790 @Krzysztof53  A teraz :  Dobranoc 💫✨💫
+1235631739579625472 2020-03-05 18:22:18 +0000 <BeataDzili> Tu masz Dziewczynę do przytulenia 😉 https://twitter.com/BeataPoProstu/status/1235324905891270661?s=20 …
+1238206911935365122 2020-03-12 20:55:07 +0000 <BeataDzili> Sławek, to zawijaj rękawki i do roboty się bierz. A ty tylko na tłiterzu całymi dniami. https://twitter.com/SlawekNeumann/status/1238203101502418952 …
+1238512987012562950 2020-03-13 17:11:21 +0000 <BeataDzili> Nudny pan jesteś...może tak rękawki zawinąć i do roboty się wziąć? Marszałek Grodzki pomocy potrzebuje...nie daje rady nosić własnego EGO sam. https://twitter.com/adamSzlapka/status/1238510891680903168 …
+1239295281973379074 2020-03-15 20:59:54 +0000 <BeataDzili> Obiecałam‼️‼️‼️📢📢📢📢📢📢📢📢📢📢📢  Tak na wieczór do przytulenia @Jahu26260681 pic.twitter.com/4LEr2nmnuD
+1239556889605783553 2020-03-16 14:19:26 +0000 <BeataDzili> Przytulamy chłopaka‼‼‼‼  Migusiem...ile mogę prosić😜 https://twitter.com/BeataDzili/status/1239295281973379074 …
+1239886535085998081 2020-03-17 12:09:20 +0000 <BeataDzili> Uwaga, uwaga 📢📢📢📢📢📢📢📢📢📢📢📢📢 Jeśli byście nudzili się przy pracy zdalnej bardzo proszę.  Przytulamy @UPrawilny  Uwierzcie, warto ‼️‼️‼️‼️‼️ https://twitter.com/HGeeka/status/1239878658321461253 …
+1239895337185181696 2020-03-17 12:44:19 +0000 <BeataDzili> Siedzę w domu...trochę czuję się jak na wagarach.🤭  Przytulamy kolejnego Prawuska @kamar252424219 https://twitter.com/kamar252424219/status/1239894010627534849 …
+1239941320522768385 2020-03-17 15:47:02 +0000 <BeataDzili> 📢📢📢📢📢📢 Dziś taki dzień przytulania.🤗 Bardzo proszę 😜 @PKosiba452655
+1239957042313539584 2020-03-17 16:49:30 +0000 <BeataDzili> Dziś był pracowity dzień...tyle tego przytulania 🤗  Czas na relaks, odpoczynek 😜 pic.twitter.com/90P6GNvjDq
+1239996497078468609 2020-03-17 19:26:17 +0000 <BeataDzili> Teraz Ty przytulaj  @UPrawilny @PKosiba452655 @kamar252424219
+1240552813270269952 2020-03-19 08:16:53 +0000 <BeataDzili> Dziś przytulamy prawą dziewczynę  @JolkaJolks   Dobrego dnia Ćwiry i Ćwirki 🤗❤ 📢📢📢📢📢📢📢📢📢 pic.twitter.com/gzeMLu7266
+1241505992602460162 2020-03-21 23:24:29 +0000 <BeataDzili> No dobra... opozycja to dno...wirus ...epidemia... Ktoś Cioteczkę przytuli? pic.twitter.com/SXkrHuLyZj
+1242429934418694144 2020-03-24 12:35:54 +0000 <BeataDzili> Cześć Arek.🤗 Ręce pełne roboty a chęci brak😏 pic.twitter.com/qUIQ8bSZWS
+1242923215179198465 2020-03-25 21:16:01 +0000 <BeataDzili> 📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢  A jakbyście się nudzili ....proszę przygarnijcie Chłopaka 🤗💪  https://twitter.com/Jerzyg9/status/1242922174966632448 …
+1243187575227121664 2020-03-26 14:46:29 +0000 <BeataDzili> Kochane Ćwiry i Ćwirki 🤗  Kolejne konto do odbudowy. Polecam 📢📢📢📢📢📢📢📢📢📢📢 @PiotrZiba2 https://twitter.com/PiotrZiba11/status/1243186845757956096 …
+1243198623573258243 2020-03-26 15:30:24 +0000 <BeataDzili> Kochane Ćwiry i Ćwirki ‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️  Kolejne konto do odbudowy. Polecam 📢📢📢📢📢📢📢📢📢📢📢 @PiotrZiba2
+1248325963215183873 2020-04-09 19:04:37 +0000 <BeataDzili> Kochane Ćwiry i Ćwirki praca na wieczór. 😊😜  Przytulamy @wojtek_opole https://twitter.com/wojtek_opole/status/1248302898552897536 …
+1250358648775356416 2020-04-15 09:41:47 +0000 <BeataDzili> Dzień jak co dzień ☔️  Witajcie Ćwiry i Ćwirki ☀️  Pomożemy? Pomożemy! 📢📢📢  Dziś przytulamy @P_Kaszubowski https://twitter.com/P_Kaszubowski/status/1248714319015153664?s=20 …
+1251218212651491328 2020-04-17 18:37:23 +0000 <BeataDzili> Irek ...który to już raz 😂  @Irek55921067   Oczywiście przytulamy 🤗🤗🤗👇 pic.twitter.com/iLkJZh9ATV
+1254159032534827008 2020-04-25 21:23:09 +0000 <BeataDzili> Ej Tłiterzu o co chodzi?  Przytulamy koniecznie @Warwara16 pic.twitter.com/L4M8Dww0j1
+1254338989236117508 2020-04-26 09:18:14 +0000 <BeataDzili> Dziś do przytulenia polecam @Pavkamac1   Dobrego dnia Ćwiry i Ćwirki 👍 https://twitter.com/Pavkamac1/status/1254321216074235904 …
+1255161964604592129 2020-04-28 15:48:26 +0000 <BeataDzili> Kochane Ćwiry i Ćwirki pomoc potrzebna📢 📢📢📢📢📢📢📢📢📢📢📢 Przytulamy @ZPrawa https://twitter.com/ZPrawa/status/1255156214880628741 …
+1262374281553551364 2020-05-18 13:27:37 +0000 <BeataDzili> OK...Trujka srujka...a tu pomoc potrzebna ‼️‼️‼️‼️‼️‼️  Przytulamy bez zbędnego zwlekania ❤️🤗 📢📢📢📢📢📢 https://twitter.com/tomekm_pI/status/1262360496176533504 …
+1264503356011274240 2020-05-24 10:27:48 +0000 <BeataDzili> Pani Poseł trzeba pomóc.  Przytulamy 🤗  Miłej niedzieli 🌞🦋🌸❤ https://twitter.com/BurzynskaLidia/status/1264493057824772097 …
+1266279971292508161 2020-05-29 08:07:26 +0000 <BeataDzili> Wielkie #ff dla @Marek78256361 🤗 Proszę o przytulenie. Wrócił do Nas 😎😇 @PolskaKobieta @Jowita_W @franciszka909 @UcjaSylwia @JoannaSikorski @KrolowaM @Tajemnica20 @mariusz_priv @skorpion5691 @Darioopis @DominikPiotr1 @kedzier53 @DanielMazury ❤🌹🦋🌸 pic.twitter.com/LtXRz4mlYe
+1266688734734450694 2020-05-30 11:11:42 +0000 <BeataDzili> Kochani robota na dziś 🤗🤗🤗  Jest‼️ Wróciła‼️ @prawa_polka
+1267785473797300224 2020-06-02 11:49:45 +0000 <BeataDzili> Praca na dziś Kochane Ćwiry i Ćwirki 🤗🤗🤗 Dzień bez przytulania dniem straconym 😉 https://twitter.com/sokprawoskretny/status/1267774825080242177 …
+1269706964285751296 2020-06-07 19:05:04 +0000 <BeataDzili> Wiem, niedziela wieczór...ale robota jest‼️‼️‼️‼️‼️  Przygarniamy Elkę @Elka38547528 🤗🤗🤗💪🇵🇱 https://twitter.com/Elka38547528/status/1269705834772168705 …
+1270004993039446021 2020-06-08 14:49:20 +0000 <BeataDzili> Poniedziałek, popołudnie ....przygarniamy 🤗 @AnonymousUSA18 ‼️‼️‼️‼️‼️📢📢📢📢📢📢 https://twitter.com/AnonymousUSA18/status/1270001625407594502 …
+1270050227093934085 2020-06-08 17:49:05 +0000 <BeataDzili> Robota na dziś wieczór ...zapraszam do przytulania 🤗  Wrócił @AnonymousUSA18 ❤️🇵🇱🇵🇱🇵🇱🇵🇱 https://twitter.com/AnonymousUSA18/status/1270001625407594502 …
+1270259745233014784 2020-06-09 07:41:38 +0000 <BeataDzili> Dzień dobry🤗  Bardzo proszę o przygarnięcie EfkiKonefki❤ https://twitter.com/PituPituTralala/status/1270111455283740672 …
+1270761728696029184 2020-06-10 16:56:20 +0000 <BeataDzili> Wieczór...nuda....ale Tłiterz nie da się nudzić📢📢📢📢📢  Przytulamy @JarekOzynski https://twitter.com/JarekOzynski/status/1270710354700464133 …
+1270778238760034306 2020-06-10 18:01:56 +0000 <BeataDzili> Marnie Wam idzie przytulanie Ewy  @PituPituTralala  Bardzo proszę, przecież potraficie👊 📢📢📢📢📢 https://twitter.com/PituPituTralala/status/1270111455283740672 …
+1272860705142816769 2020-06-16 11:56:55 +0000 <BeataDzili> Robota na dziś .... 🤗  Przytulamy @kasia25331735 pic.twitter.com/92ut42m7Kz
+1273377413750292481 2020-06-17 22:10:08 +0000 <BeataDzili> Co tu się stało? Robota jest Kochani 🤗 pic.twitter.com/zNTYxMeobA
+1273516098776969217 2020-06-18 07:21:13 +0000 <BeataDzili> Pracę mamy!   Przygarniamy🤗🤗🤗 https://twitter.com/RazorWireReborn/status/1273495908341161987 …
+1273564622994407425 2020-06-18 10:34:02 +0000 <BeataDzili> Kolejne konto do odbudowy. Polecam 🤗 @Barbara78149499 https://twitter.com/SuaveMe30079256/status/1273561299759349761 …
+1273658337654116352 2020-06-18 16:46:25 +0000 <BeataDzili> Przygarniamy szybciutko....🤗  Proszę, bez ociągania tym razem 😉 https://twitter.com/HGeeka/status/1273638120248967174 …
+1275539589218873344 2020-06-23 21:21:51 +0000 <BeataDzili> Kto nie śpi przygarnia Naszą Immę...  Szybciutko 🤗🤗🤗 https://twitter.com/franek_timm/status/1275532429646860289 …
+1275540165046538241 2020-06-23 21:24:08 +0000 <BeataDzili> Tu jest robota ! https://twitter.com/BeataDzili/status/1275539589218873344?s=20 …
+1278361591315083264 2020-07-01 16:15:28 +0000 <BeataDzili> Nie wiem czy mnie widać.📢 Jeśli tak, praca na dziś.  Przygarniamy @Piotr32308538 🤗 pic.twitter.com/ejLw0gWqeS
+1278732695980380161 2020-07-02 16:50:07 +0000 <BeataDzili> Któreś z dzieci przytuli RafaUa ?  Zimny i cyniczny kłamczuch, który wymyśla fikcyjne telefony do byłych prezydentów   #RafałNieKłam https://twitter.com/PiS_WarmiaMazur/status/1278727866243592192 …
+1279004541086765056 2020-07-03 10:50:20 +0000 <BeataDzili> Ćwiry i Ćwirki   @prawapolka100  Przytulamy szybciutko.  @Jowita_W @Darioopis @PiotrKsol @DarekLenovo @mariusz_priv @Tajemnica20 @Kazek48332004 @HGeeka pic.twitter.com/0NpR4bB3CT
+1280443026310082560 2020-07-07 10:06:21 +0000 <BeataDzili> Wiem,że zajęci jesteście. W wolnej chwili proszę o przygarnięcie 🤗 @marekjerzy9 pic.twitter.com/mBciVpelDI
+```
+
+Natalijka_:
+
+```
+1210266760441745410 2019-12-26 18:30:56 +0000 <Natalijka_> Dwóch prawaczków gnębionych przez lewactwo! Pomóżmy im w odbudowie kont 😎 https://twitter.com/pikus_pol/status/1210209288309944323 …
+1214904065701928961 2020-01-08 13:37:55 +0000 <Natalijka_> Pomagamy w odbudowie, tym razem przytulamy @SelkaKKS1 😎 pic.twitter.com/yTqr0xXekY
+1222898435990274048 2020-01-30 15:04:42 +0000 <Natalijka_> Tak jest, @Andruszkiewicz1 czekamy na odpowiednie kroki... Czas brać się do roboty, a nie brylować w TVP.
+1224231000634535936 2020-02-03 07:19:50 +0000 <Natalijka_> Z samego rana taka wiadomość 🙄 Trzeba przytulić koleżankę, bo jak widać lewactwo nie próżnuje 😑 @SelkaLP1 ✌ pic.twitter.com/VACfZVcJKs
+1224733996426448896 2020-02-04 16:38:33 +0000 <Natalijka_> Uwaga❗ Uwaga ❗Uwaga ❗  Mamy na widelcu koleżankę  TW Leśków !!!  Blokować, NIE ŻAŁOWAĆ! Nagminnie odbudowuje konta lewackiej hołoty 😏 https://twitter.com/500_Ewa_C/status/1224488052703342595 …
+1225053792045010944 2020-02-05 13:49:19 +0000 <Natalijka_> Kochanie, wzywają Was koledzy i koleżanki 😂  Do roboty 😂 pic.twitter.com/I5jHh0ILaI
+1225054697804959750 2020-02-05 13:52:55 +0000 <Natalijka_> #Silnirazem Was wezwali? 😂 Dobra robota😂 pic.twitter.com/8qzcGtCOZz
+1226767900368830464 2020-02-10 07:20:34 +0000 <Natalijka_> Kochani! Mamy robotę!  @SelkaLP2 znowu zablokowana i potrzebuje naszej pomocy!  Przytulamy naszą dobrą koleżankę😊 Jedziemy! ✌ pic.twitter.com/OW7FcwHwzv
+1227506762653282304 2020-02-12 08:16:32 +0000 <Natalijka_> Prawi robota jest 😎  Z podwójną mocą wrócił nasz dobry kolega "MONTER" ✌ Pomimo że zimno i wieje, to pomagamy !  Nie dajmy satysfakcji  # SilniRazem i odbudujmy jego konto.    Obserwujemy @niez_omny 😉   Życzę wszystkim miłego dnia ✌
+1229659563437281282 2020-02-18 06:51:00 +0000 <Natalijka_> Dzień dobry moherki✌  Robota jest 😜 Kolejny raz proszę o odbudowę konta naszej dobrej koleżanki Selki, której lewactwo nie daje spokoju 🙄 Ona na mnie liczy, więc bardzo proszę Was o pomoc 😊 Nie śpimy i klikamy w @paniprzezduzeS 😎   Miłego dnia żuczki i pilnujcie Polski ✌ pic.twitter.com/9gvZe406xf
+1235182170437754882 2020-03-04 12:35:52 +0000 <Natalijka_> Nasza dobra koleżanka znowu potrzebuje naszego wsparcia 😊  6 konto i 6 raz trzeba jej pomóc w odbudowie 😉  Pomagamy i obserwujemy @OnaprzezS ✌ pic.twitter.com/bpqomSfcua
+1235205201839222784 2020-03-04 14:07:23 +0000 <Natalijka_> Kiedy "trzecia głowa" wygłosi jakieś skromne orędzie w sprawie koronawirusa? 🤔 Dziwne, że jeszcze nie pcha się przed kamery🤭 @profGrodzki proszę brać się do roboty, Polska czeka, chcemy się troszkę pośmiać 😊
+1236983624592961536 2020-03-09 11:54:12 +0000 <Natalijka_> Nasza kochana Madzia potrzebuje pomocy przy odbudowie konta. Znacie ją, więc dokonale wiecie, że to świetna babka! 😎 Kochani, przytulamy naszą wariatkę i bronimy jej jak Niepodległości! 😉 @magda14573869 ❤💋
+1237267563794567168 2020-03-10 06:42:29 +0000 <Natalijka_> Przytulamy naszą kochaną, niezastąpioną @PaniRenatka11, która kolejny raz została zablokowana.  Nie śpimy i pomagamy. Renia, jesteśmy z Tobą i zawsze będziemy 😘 ❤❤❤
+1258302196501958657 2020-05-07 07:46:36 +0000 <Natalijka_> No i wróciła nasza niezastąpiona Pani Renatka ❤  Długo nie musieliśmy tęsknić 😁 Pomagagamy w odbudowie konta @dumnapolka12 !   Witaj Rania!!! ❤😘
+1271115915820662790 2020-06-11 16:23:45 +0000 <Natalijka_> Znowu wróciła! Nasza kochana, niezastąpiona - Pani Renatka! Wszystkie ręce na poklad i przytulamy ❤ @zorientowana14 ❤    A tak w ogóle, to ją kocham!!! 🥰 😄
+1271432299834458112 2020-06-12 13:20:57 +0000 <Natalijka_> Pomóżmy koleżance w odbudowie! Jak widać lewackie patałachy robią wszystko, żeby przed wyborami zamykać wrogie im konta!   Przytulmy @Natka79357543 😊 https://twitter.com/Natka79357543/status/1271373942863904769 …
+1271553281207255040 2020-06-12 21:21:41 +0000 <Natalijka_> Co tu się dzieje na tym Twitterze? Kolejny kolega potrzebuje pomocy w odbudowie. Te cymbały zamykają konto za kontem.  Zauważyłam, że niechętnie to robicie, no ale kto mu pomoże jak nie my? Dajcie follow @CieniaCien
+```
+
+ACzarnobaj:  
+
+```
+1234757435870584833 2020-03-03 08:28:08 +0000 <ACzarnobaj> Pracuje to zarabia i słusznie👍 i robi bardzo dobrą robotę @ZiobroPL 👏👏👏
+1235453973017944065 2020-03-05 06:35:55 +0000 <ACzarnobaj> Tylko #DUDA2020 #PAD2020 i to w I turze,żadnej drugiej!!!do roboty prawi!!!🇵🇱🇵🇱🇵🇱👊👊👊🇵🇱🇵🇱♥️ https://twitter.com/FremdenlegionPL/status/1235453197222895616 …
+1251872880415170561 2020-04-19 13:58:48 +0000 <ACzarnobaj> No link do@pawel14... Żeby go przytulić Leszku, bo mi nie wyszukuje ...
+1265590941068427269 2020-05-27 10:29:28 +0000 <ACzarnobaj> Zapraszam do złapania naszego kolegi😊 No juz, bierzemy się do roboty 👊 https://twitter.com/Sawek54213452/status/1265582123311943685 …
+1267386841495371777 2020-06-01 09:25:44 +0000 <ACzarnobaj> A mogę ją Cię przytulić Florciu?🤗😘 pic.twitter.com/Emz2rpuefL
+1269707445569536001 2020-06-07 19:06:59 +0000 <ACzarnobaj> @Elka38547528 - bieżcie się do roboty Kochani!!!to nasza Elcia wspaniała!😘
+1270226188531884032 2020-06-09 05:28:17 +0000 <ACzarnobaj> To jeszcze przytulas dodatkowy na poprawę dnia 🌹😘 pic.twitter.com/UOI2uLtbny
+1272469935692881924 2020-06-15 10:04:08 +0000 <ACzarnobaj> Jeszcze tę przytulamy @Lucyna32272363 😘
+1273139629126975489 2020-06-17 06:25:16 +0000 <ACzarnobaj> Moi drodzy, jest robótka, dziś trafiło na Iwonkę prawą naszą. Przytulamy 💕 @aantypofrontB @leszek52535255 @Boena09867148 @MARIOLAACUDNIK1 @patriot54064100 @tomaszuczkiewic https://twitter.com/C_Olinek/status/1273137376999636992?s=19 …
+1273142693695229953 2020-06-17 06:37:26 +0000 <ACzarnobaj> Cześć Robciu 😂😂😘 nie mazgaj się, do roboty! Polski pilnować mi już! 😂😘 pic.twitter.com/sROd8Y6xGH
+1273502499740225537 2020-06-18 06:27:11 +0000 <ACzarnobaj> Prawi, kolejny pracowity dzień! Dziś pomagamy @TuskaDziadek - przytulamy i RT! robimy, no już budzimy się i #jedziemy 💪😘 @C_Olinek @Daniel_Mazury_ @Tajemnica20 @KINGA09619647 @RobertKwit5 @HGeeka https://twitter.com/UcjaSylwia/status/1273463033545871362?s=19 …
+1274246981041508355 2020-06-20 07:45:29 +0000 <ACzarnobaj> @MrsMarie17 trzeba pomóc kochani, przytulamy 😘 i RT! @MARIOLAACUDNIK1 @Tajemnica20 @Barbara29466381 @Monika_Polska29 @Herkejos68 @Alicja322 @Ka7365326490 @beartycze @Elciapelciaba @KrysiaKowalska @TuskaDziadek @if_debroendby @JanoPiS2 https://twitter.com/MrsMarie17/status/1274053308899110918 …
+1277134435612311554 2020-06-28 06:59:12 +0000 <ACzarnobaj> Poproszę o pomoc w odbudowie konta naszego super Krzysztofa👊❤#RT ❗❗❗ @patriot54064100 @Herkejos68 @Ka7365326490 @Barbara29466381 @Boena80995411 @Elciapelciaba @beartycze @Jerry76133990 @AleksanderB9 @DanielMazury_ @StanisawKoniec5 @HGeeka @Hucul9 https://twitter.com/Rysiaczek1/status/1277121623544471558 …
+1277527184844959744 2020-06-29 08:59:50 +0000 <ACzarnobaj> Dzień dobry Alu😘😘to przytulam Cię, aby był trochę lepszy😘 pic.twitter.com/55KKVzvrRa
+1277531539623075840 2020-06-29 09:17:09 +0000 <ACzarnobaj> Cześć Krysiu, napracowałaś się wczoraj bardzo 😘 Ciebie też przytulam na poprawę humoru😘 pic.twitter.com/nkpxg8BWv6
+1277554482780483584 2020-06-29 10:48:19 +0000 <ACzarnobaj> Przytulamy i pomagamy @DziMatt !!! #RT ❗❗❗ https://twitter.com/MonikaKarolinaa/status/1277304492124442627 …
+1278192458187374592 2020-07-01 05:03:24 +0000 <ACzarnobaj> Jak tu takiej fajnej babeczki nie przytulić?😂😂☀🌸❤❤❤😘😘😘 pic.twitter.com/WF8uRwIhmY
+1278663031770284032 2020-07-02 12:13:17 +0000 <ACzarnobaj> Oczywiście 😀 dziś @DarekPOLSKA2 przytulamy po powrocie.
+1280905003264290816 2020-07-08 16:42:05 +0000 <ACzarnobaj> UWAGA, UWAGA, ogłoszenia parafialne 😂 przytulamy nową prawaczkę, dziewczyna, cód, miód malina i oczy jej powiedzą, że piękną i prawa @Monnia17 , już już do roboty😘 @Monika_Polska29 potwierdzi 🤗😘
+1281113856513904640 2020-07-09 06:31:59 +0000 <ACzarnobaj> To do roboty!!!! 🇵🇱🇵🇱🇵🇱🇵🇱 #DUDA2020 😘 pic.twitter.com/p1C9JLGN1g
+1281124501422514177 2020-07-09 07:14:17 +0000 <ACzarnobaj> Alu i Wszyscy w wątku @KawozWnuk - przytulamy, lewactwo strasznie nas uwala, ale nie damy się 👊😘
+1281488409333293061 2020-07-10 07:20:20 +0000 <ACzarnobaj> Witaj Robciu 😘😘😘 Praca na rzecz #DUDA2020 to czysta przyjemność 😁 A Ty też bierz się do roboty, nie ma co się obcyndalać! #DUDA2020 🇵🇱🇵🇱❤️ pic.twitter.com/NxodNokojq
+1281490317070540800 2020-07-10 07:27:55 +0000 <ACzarnobaj> Bieraj się do roboty, bo Ci czarownice łomot spuszczą 😂😂😂😘 Dziś aż do ciszy wyborczej wklejaj hasztag #DUDA2020 🇵🇱🇵🇱❤️ podawaj tłity dalej aż do upadłego. Jak nie to @BobRoberto71 pomoże mi przywołać Cię do porządku 😘🇵🇱
+```
+
+B80Aga:  
+
+```
+1270301204468334592 2020-06-09 10:26:22 +0000 <B80Aga> Prawi jest robotka odbudowujemy konto dla Prawego @RafalDlaPolski5 pic.twitter.com/iqxalsL6ZR
+1270780060841193479 2020-06-10 18:09:11 +0000 <B80Aga> Jest robotka trzeba 🚜🚜🚜🚜🚜głos na #DUDA2020 #AndrzejDuda2020 @Boena19400067 @PiotrZielnik @JedryczkaKalina @jedrek_pl @JackuPlacku5 @RafalDlaPolski5 @olafzberlina789 @Zbyszek93023873 @mikesh_duda2020 @Aleksan75066929 @mieszko981 @KrzysztofBLUES https://twitter.com/patriot54064100/status/1270776236890107904 …
+1272080086141984768 2020-06-14 08:15:01 +0000 <B80Aga> Kochani Prawi jest robotka pomagamy dla naszej koleżanki odbudować konto 😘😘 Lucyna @Lucyna32272363
+1274004440966737922 2020-06-19 15:41:43 +0000 <B80Aga> No to będą orzeszki trochę roboty będzie pic.twitter.com/2BD2M0nkPd
+1276610503339651074 2020-06-26 20:17:16 +0000 <B80Aga> Zanim do snu ułożysz się, wytrzep z poduszki myśli złe. Poukładaj na jej brzegach , tylko miłe chwile dnia. A teraz już do niej przytul się, a teraz będzie to z pewnością miły i spokojny sen. Dobranoc Prawi spokojnej nocy Wam życzę. pic.twitter.com/aWYAtlI9w7
+1276871603717132295 2020-06-27 13:34:48 +0000 <B80Aga> Mam i ja #FF dla wszystkich @Sawek54213452 @D_Tarczynski @DolnyMokotow @jurek1963ma @bolekban @Stefan51546381 @dorobotylenie @DominikPiotr1 @mariuszgorski82 @PapryczkaPiri @Elka38547528 @radiobialystok @DariuszMatecki @BlogerPisarz @Violka61 @sokprawoskretny pic.twitter.com/Xpio9t5fwI
+1279658612428857344 2020-07-05 06:09:22 +0000 <B80Aga> Kochani pomagamy dla Zbysia odbudować konto https://twitter.com/Zbyszek92741634/status/1279628003467759617 …
+1280249561202806786 2020-07-06 21:17:35 +0000 <B80Aga> Robotki miała mtrochi i czasu na tt nie było podusie szyłam pic.twitter.com/DkKjyDQ04a
+1281451594954018816 2020-07-10 04:54:03 +0000 <B80Aga> Drodzy moi mili jest robotka z rana @Nati77689939 przytulamy mocno naszą koleżankę szybciutko rach ciach ciach
+1281976485042159616 2020-07-11 15:39:46 +0000 <B80Aga> Hej jest robótka popołudniowa pomożemy koleżance @Renata30348364 przytulimy tego kropka 😘😘😘😘😘😘
+1282011888256274432 2020-07-11 18:00:27 +0000 <B80Aga> I Tobie dziubasku za to że mnie przytuliłeś taką wariatkę pic.twitter.com/7PGfxPZlww
+1282239857134379008 2020-07-12 09:06:19 +0000 <B80Aga> Hej Prawe kobitki kto jeszcze nie ma tego przystojniaka to niech żałuje przygarniecie (możliwa adopcja na odległość 😂😂😂)👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇 https://twitter.com/Mateusz90269340/status/1282238733983637504 …
+1282244037039316992 2020-07-12 09:22:56 +0000 <B80Aga> Dobra moi wspaniali potrzebna następna pomoc (adopcja na odległość oczywiście 😂😂😂😈)@Mirek66890674 w odbudowie konta pomożecie
+```
+
+BetiRad:  
+
+```
+1266318846614536192 2020-05-29 10:41:54 +0000 <BetiRad> Dzień dobry 🆘🆘🆘👇kto jeszcze nie przytulił🙂🆘🆘🆘 @Lucyna23955149 #ff i Rt mile widziane❤️ pic.twitter.com/205B6dWLZf
+1273607623808614408 2020-06-18 13:24:54 +0000 <BetiRad> 🆘🆘🆘@Barbara78149499🆘🆘🆘@Natalia51264636 🇵🇱🇵🇱🇵🇱Przytulamy nasze Prawe koleżanki ❤️🇵🇱 #Jedziemy 😘 pic.twitter.com/ZnuUr4zYIS
+1274256591659896833 2020-06-20 08:23:40 +0000 <BetiRad> 🆘🆘🆘Przytulamy🆘🆘🆘Dziękuje ❤️nasze Kochane ➡️ @podkarpatka @Lucyna85325579 #rt #ff pozdrawiam i dobrego dnia😘Już mnie tu nie ma🙋‍♀️ pic.twitter.com/vJeHTDxuvx
+1276258770784485376 2020-06-25 20:59:37 +0000 <BetiRad> ❤️❤️❤️Przytulamy😍 @Bożena80995411 🤗 pic.twitter.com/oFZyiIDmX5
+1277125413911871488 2020-06-28 06:23:21 +0000 <BetiRad> Przytulicie 😇😍 @Rysiaczek1 No nie wierzę...Znowu😕 pic.twitter.com/Wam1zbyfnD
+```
+
 
 ## Trolle od Trzaskowskiego
 
