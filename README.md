@@ -373,9 +373,10 @@ Inne konta które wrzucają/retwittują prośby o followowanie innych kont:
 * [MySpace86](https://twitter.com/MySpace86)
 * [ACzarnobaj](https://twitter.com/ACzarnobaj)
 * [BeataDzili](https://twitter.com/BeataDzili)
-* [Natalijka_](https://twitter.com/Natalijka_)
+* [Natalijka_](https://twitter.com/Natalijka_) - dnia 13.07.20 usunęła konto. [archive.is](http://archive.is/BHRkr), [logi](https://www.pastebin.zone/mIdgAFKM).  
 * [BetiRad](https://twitter.com/BetiRad)
-* [B80Aga](https://twitter.com/B80Aga)
+* [B80Aga](https://twitter.com/B80Aga) [archive.is](http://archive.is/xsCsC)  
+* Krzyszt98612392 (już zawieszone)
 
 Konto Krzyszt98612392 w chwili gdy to piszę już jest zawieszone, profile które listował z prośbą o follolowanie:  
 
@@ -562,6 +563,8 @@ BetiRad:
 1276258770784485376 2020-06-25 20:59:37 +0000 <BetiRad> ❤️❤️❤️Przytulamy😍 @Bożena80995411 🤗 pic.twitter.com/oFZyiIDmX5
 1277125413911871488 2020-06-28 06:23:21 +0000 <BetiRad> Przytulicie 😇😍 @Rysiaczek1 No nie wierzę...Znowu😕 pic.twitter.com/Wam1zbyfnD
 ```
+
+
 
 
 ## Trolle od Trzaskowskiego
