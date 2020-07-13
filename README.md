@@ -364,7 +364,7 @@ Całkiem możliwe, że wiele z nich już jest zablokowane.
 
 Podsumowanie: Tajemnica20 często wrzuca nowe konta z prośbą o follołowanie.
 Zasłania się tym, że konto jest nowe, lub stare zostało zawieszone. Faktycznie na twitterze widzieliśmy grupę ludzi którzy zajmowali się zgłaszaniem do twittera trollowych kont podając mowę nienawiści jako argument usunięcia konta.
-Ale i tak uważamy że to jak często konta są anonimowe i to jak podobne mają loginy (twitter sam dokleja 8 cyfr, ale to jak często jest to samo imię i cyfry jest nienaturalne) świadczy o tym że za tym wszystkim stoi jedna osoba lub grupa.
+Ale i tak uważamy że to jak często konta są anonimowe i to jak podobne mają loginy (twitter sam dokleja 8 cyfr, ale to jak często jest to samo imię i cyfry jest nienaturalne) i opisy świadczy o tym że dzieje się tu coś dziwnego - kilka kont przypada na jedną osobę. Ciężko powiedzieć ile tu jest osób.  
 
 ### Inne konta
 
