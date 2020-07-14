@@ -572,7 +572,7 @@ BetiRad:
 ## Trolle od Trzaskowskiego
 
 Szukaliśmy też trolli od trzaska bo nie chcieliśmy stać po którejś ze stron.
-Wydaje nam się, że te konta są trollami, ale nie wygląda nam to na tak wielką, zorganizowaną akcję przez grupę powiązanych ze sobą ludzi jak w przypadku PiS
+Wydaje nam się, że te konta są trollami, ale nie wygląda nam to na tak wielką, zorganizowaną akcję robioną przez grupę powiązanych ze sobą ludzi jak w przypadku PiS
 
 https://twitter.com/RobertLewus  
 https://twitter.com/Rob_PL01  
