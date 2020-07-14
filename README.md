@@ -360,7 +360,7 @@ https://twitter.com/wojtek76022112
 https://twitter.com/Zbignie50179756
 
 Zawiera ona 94 kont.  
-Całkiem możliwe, że wiele z nich już jest zablokowane.
+Całkiem możliwe, że wiele z nich już jest zablokowane lub usunięte.
 
 Podsumowanie: Tajemnica20 często wrzuca nowe konta z prośbą o follołowanie.
 Zasłania się tym, że konto jest nowe, lub stare zostało zawieszone. Faktycznie na twitterze widzieliśmy grupę ludzi którzy zajmowali się zgłaszaniem do twittera trollowych kont podając mowę nienawiści jako argument usunięcia konta.
@@ -368,15 +368,17 @@ Ale i tak uważamy że to jak często konta są anonimowe i to jak podobne mają
 
 ### Inne konta
 
+Tajemnica20 nie jest jedynym kontem które zachwouje się w ten sposób.  
 Inne konta które wrzucają/retwittują prośby o followowanie innych kont:  
 
 * [MySpace86](https://twitter.com/MySpace86)
 * [ACzarnobaj](https://twitter.com/ACzarnobaj)
 * [BeataDzili](https://twitter.com/BeataDzili)
-* [Natalijka_](https://twitter.com/Natalijka_) - dnia 13.07.20 usunęła konto. [archive.is](http://archive.is/BHRkr), [logi](https://www.pastebin.zone/mIdgAFKM).  
+* [Natalijka_](https://twitter.com/Natalijka_) - dnia 13.07.20 usunęła konto. [archive.is](http://archive.is/BHRkr), [logi](https://www.pastebin.zone/mIdgAFKM). Dnia 14.07.20 konto [od-usunęła](http://archive.is/wip/NKq91).  
 * [BetiRad](https://twitter.com/BetiRad)
 * [B80Aga](https://twitter.com/B80Aga) [archive.is](http://archive.is/xsCsC)  
-* Krzyszt98612392 (już zawieszone)
+* Krzyszt98612392 (już zawieszone)  
+* I pewnie więcej  
 
 Konto Krzyszt98612392 w chwili gdy to piszę już jest zawieszone, profile które listował z prośbą o follolowanie:  
 
@@ -570,8 +572,7 @@ BetiRad:
 ## Trolle od Trzaskowskiego
 
 Szukaliśmy też trolli od trzaska bo nie chcieliśmy stać po którejś ze stron.
-Wydaje nam się, że te konta są trollami, ale nie ma tutaj tak oczywistych patternów które udowadniają że 1 osoba ma kilka kont.
-Być może potrafią się lepiej kryć, ale na pewno PiS trolli ma dużo więcej. Nie jesteśmy 100% pewni każdego konta.     
+Wydaje nam się, że te konta są trollami, ale nie wygląda nam to na tak wielką, zorganizowaną akcję przez grupę powiązanych ze sobą ludzi jak w przypadku PiS
 
 https://twitter.com/RobertLewus  
 https://twitter.com/Rob_PL01  
